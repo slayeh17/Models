@@ -1,0 +1,500 @@
+Movie Name,CSS,Language,Runtime (min.),IMDb_Rating,Animated,Genre,Fantasy,Drama,Music,Adventure,Thriller,Action,Family,Romance,Mystery,Sports,Comedy,Horror,Crime,SciFi,Lead_Actor,Lead_Actress,Director,Budget,BO Collection (Total),Trailer Views,Trailer Likes (K),Music_Rating,No. of Screens,Verdict
+interstellar,0.3,English,169,8.7,Live Action,"Adventure, drama, sci-fi",1,1,1,1,1,1,0,0,1,0,0,0,0,1,Matthew David McConaughey,Anne Jacqueline Hathaway,Christopher Nolan,165,773.8,36314005,202,8.5,20000,Blockbuster
+thedarkknight,0.4,English,152,9,Live Action,"Action,crime,drama",0,1,1,1,1,1,0,0,1,0,0,0,1,0,Christian Bale,Anne Hathaway,Christopher Nolan,18.5,100.6,180000000,185,9.4,4300,Hit
+theekenruddhaswasrajasthan,0.238095238095238,Bengali,121,6.7,Live Action,"Mystery, Thriller",0,1,0,0,0,0,0,1,0,0,1,0,1,0,Anirban Chakrabarti,,Joydeep Mukherjee,5,3.5,1419093,92,6.2,500,Superhit
+lagaanonceuponatimeinindia,,Hindi,224,8.1,Live Action,"Drama, Musical, Sport",0,1,1,1,0,0,1,1,0,1,1,0,1,0,Aamir Khan,Gracy Singh,Ashutosh Gowariker,25,65.97,10460532,86,7.5,3000,Blockbuster
+ramsetu,,Hindi,143,5.2,Live Action,"Action, adventure",0,0,0,0,0,0,0,0,0,0,0,0,0,0,Akshay Kumar,Jacqueline Fernandez,Abhishek Sharma,150,92.94,41621819,796,7,3100,Flop
+pathaan,0,Hindi,146,5.9,Live Action,"Action, Thriller,Adventure",0,1,1,1,0,1,0,0,0,0,0,0,0,0,Shah Rukh Khan,Deepika Padukone,Siddharth Anand,225,1050.3,95215450,2400,8,6000,Blockbuster
+raone,0.3,Hindi,156,4.7,Live Action,"Action, Adventure, Sci-fi",0,0,1,1,0,1,1,1,0,0,1,0,0,1,Shah Rukh Khan,Kareena Kapore,Anubhav Sinha,150,207,2284960,11,6,5000,Flop
+kgf2,,Other Regional,168,8.3,Live Action,"Action, thriller, historical drama,crime",1,1,1,1,1,1,0,0,1,1,0,0,0,1,Yash,Srinidhi Shetty,Prashanth Neel,100,1250,270209447,9800,8,10000,Blockbuster
+thekashmirfiles,,Hindi,170,8.7,Live Action,"Drama, History",0,1,0,0,0,0,0,0,0,0,0,0,1,0,Anupam Kher,Pallavi Joshi,Vivek Agnihotri,20,340.92,52759423,1700,8.1,4000,Blockbuster
+missionmangal,,Hindi,127,6.5,Live Action,"Drama, sci-fi",0,1,1,0,0,1,1,0,0,0,1,0,0,1,Akshay Kumar,Vidya Balan,Jagan Shakti,70,291.95,52518821,1100,9,3000,Blockbuster
+evildeadrise,0.4,English,97,6.7,Live Action,"Horror, fantasy",1,1,0,1,1,1,0,0,1,0,0,1,1,1,,Lily Sullivan,Lee Cronin,17,146.3,19054878,81,8,3000,Superhit
+ballabhpurerroopkotha,0.476190476190476,Bengali,136,8.1,Live Action,"Supernatural, comedy, drama, romance",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Satyam Bhattacharya,Surangana Bandyopadhyay,Anirban Bhattacharya,3,5.01,5416555,16,7.7,2000,Hit
+suzumenotojimari,0.523809523809524,Other Regional,122,7.8,Animated,"Adventure, fantasy, sci-fi, romance",0,1,1,0,0,0,0,0,1,0,0,0,1,0,Hokuto Matsumura,Nanoka Hara,Makoto Shinkai,30,324,1963144,37,10,7500,Blockbuster
+yehjawaanihaideewani,,Hindi,161,7.2,Live Action,"Comedy, Drama,Musical",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Ranbir Kapoor,Deepika Padukone,Ayan Mukerji,40,320,10460532,86,7,5000,Blockbuster
+parinotafairytale,,Hindi,134,6.6,Live Action,"Fantasy, Horror, Mystery",0,1,1,0,0,0,0,1,0,0,0,1,1,0,Parambrata Chatterjee,Anushka Sharma,Prosit Roy,30,41.4,76601,1,6.1,500,Average
+jabwemet,,Hindi,139,7.9,Live Action,"Romance, Comedy, Drama",0,1,1,0,0,0,0,1,1,0,0,1,1,0,Shahid Kapoor,Kareena Kapoor Khan,Imtiaz Ali,15,50.9,10490521,82,7,1000,Superhit
+herapheri,,Hindi,138,8.1,Live Action,"Comedy, Drama",0,1,1,0,0,1,0,0,0,0,1,0,1,0,Akshay Kumar,Tabu,Priyadarshan,7.5,21.4,28000000,2100,2,200,Average
+phirherapheri,,Hindi,153,7.2,Live Action,"Comedy, Drama",0,1,1,0,0,1,0,0,0,0,1,0,1,0,Akshay Kumar,,Neeraj Vora,18,69.12,11000000,131,2,500,Superhit
+omgohmygod,0.3,Hindi,130,8.1,Live Action,"Comedy, Drama, Fantasy",0,1,0,0,1,1,0,0,0,0,0,1,0,0,Akshay Kumar,,Umesh Shukla,25,193,11293725,44,9,1000,Superhit
+loveaajkal,0.238095238095238,Hindi,141,4.7,Live Action,"Romantic, drama",0,1,1,0,0,0,0,0,0,0,1,0,0,0,Kartik Aaryan,Sara Ali Khan,Imtiaz Ali,58,50.04,50047547,708,8,3000,Flop
+raazi,0.35,Hindi,140,7.7,Live Action,"Action, Drama, Thriller",0,1,1,0,0,0,0,1,0,0,1,0,1,0,Vicky Kaushal,Alia Bhatt,Meghna Gulzar,37,197,32439874,334,7.2,1500,Superhit
+welcome,0.333333333333333,Hindi,158,7,Live Action,"Comedy, Drama",0,1,1,0,1,0,0,1,0,0,1,0,1,0,Akshay Kumar,Katrina Kaif,Anees Bazmee,32,119.49,17000000,179,6,1000,Superhit
+welcomeback,,Hindi,152,4.3,Live Action,"Comedy, Drama",0,1,1,0,1,0,0,1,0,0,1,0,1,0,John Abraham,Shruti Haasan,Anees Bazmee,88,168.76,9223509,28,5.1,3000,Average
+urithesurgicalstrike,0.25,Hindi,138,8.2,Live Action,"Action, Drama, War",0,1,1,0,0,1,0,0,0,0,0,0,0,0,Vicky Kaushal,Yami Gautam,Aditya Dhar,25,359.73,29562195,590,9,1500,Blockbuster
+thetashkentfiles,,Hindi,144,8.1,Live Action,"Drama, History",0,1,0,0,0,0,0,0,1,0,0,0,1,0,Mithun Chakraborty,Shweta Basu Prasad,Vivek Agnihotri,4,20.84,11325189,250,8.9,300,Hit
+shahjahanregency,0.25,Bengali,156,6.6,Live Action,Drama,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Parambrata Chatterjee,,Srijit Mukherjee,4,5.01,939784,17,9.2,1000,Superhit
+stree,,Hindi,128,7.5,Live Action,"Comedy, Horror",0,1,1,0,1,0,0,0,1,0,1,1,1,0,Rajkumar Rao,Shraddha Kapoor,Amar Kaushik,14,180.76,54745957,424,7.2,1500,Superhit
+singham,0.3,Hindi,143,6.8,Live Action,"Action, Crime, Drama",0,1,1,0,1,1,0,0,1,0,1,0,1,0,Ajay Devgan,Kajal Agarwaal,Rohit Shetty,41,157,8111492,21,8.9,2000,Superhit
+thelionking,0.25,English,118,6.8,Animated,"Fantasy, Adventure, Musical",1,0,1,1,0,1,1,1,1,0,1,0,0,1,Donald Glover,Beyoncé Giselle Knowles-Carter,Jon Favreau,260,1647.73,74575570,781,9.2,10000,Blockbuster
+rajkahini,0.35,Bengali,160,7.2,Live Action,"Drama, History",0,1,1,0,1,0,0,1,1,0,0,0,1,0,Saswata Chatterjee,Rituparna Sengupta,Srijit Mukherjee,3.5,7,2003443,10,9.2,1000,Superhit
+noproblem,,Hindi,140,4.4,Live Action,"Action, Comedy, Crime",0,0,0,0,0,0,0,0,0,0,1,0,0,0,Anil Kapoor,Sushmita Sen,Anees Bazmee,35,48.7,1323166,1.1,6,1000,Flop
+kahaani,,Hindi,122,8.1,Live Action,"Mystery, Thriller",0,1,1,1,1,1,0,1,1,0,1,0,1,0,Parambrata Chatterjee,Vidya Balan,Sujoy Ghosh,20,91.71,583861,5.9,9.1,1000,Hit
+hemlocksociety,0.3,Bengali,141,7.5,Live Action,"Comedy, Drama, Romance",0,1,1,1,1,0,0,1,1,0,1,0,1,0,Parambrata Chatterjee,Koyel Mallick,Srijit Mukherjee,2.1,7.02,630107,5.6,8.5,500,Hit
+gumnaami,0.25,Bengali,142,7.8,Live Action,"Drama, History",0,1,1,0,1,0,0,0,1,0,1,0,1,0,Anirban Bhattacharya,Tanusree Chakraborty,Srijit Mukherjee,2.8,6.7,937932,33,8.1,500,Superhit
+gold,0.25,Hindi,151,7.3,Live Action,"Drama, History, Sport",0,1,1,1,0,0,0,0,0,1,0,0,0,0,Akshay Kumar,Mouni Roy,Reema Kagti,75,158.54,39110376,439,7,3000,Average
+genarationaami,,Bengali,120,7.6,Live Action,Drama,0,1,1,0,0,0,1,0,0,0,1,0,0,0,Rwitobroto Mukherjee,Sauraseni Maitra,Mainak Bhaumik,5.01,8.56,1370247,38,8.1,500,Hit
+entertainment,0.5,Hindi,145,4.5,Live Action,"Comedy, Drama",0,0,1,0,0,0,0,0,0,0,1,0,0,0,Akshay Kumar,Tamannaah Bhatia,Sajid,75,103.85,8978324,24,5.2,2500,Flop
+ekjechhiloraja,,Bengali,147,7.2,Live Action,"Drama, Mystery, Thriller",0,1,1,0,0,0,1,0,1,0,1,0,0,0,Jisshu Sengupta,Jaya Ahsan,Srijit Mukherjee,2.5,5.7,1803269,28,8.5,750,Hit
+baishesrabon,0.15,Bengali,140,8.1,Live Action,"Action, Crime, Drama",0,1,1,0,1,0,0,0,1,0,1,0,1,0,Parambrata Chatterjee,Raima Sen,Srijit Mukherjee,1.45,3.3,666875,6.5,8.5,1000,Superhit
+chhichhore,,Hindi,143,8.3,Live Action,"Comedy, Drama, Romance, Slice-of-life",1,1,1,1,1,1,1,1,1,1,1,0,0,0,Sushant Singh Rajput,Shraddha Kapoor,Nitesh Tiwari,50,215.41,51135335,803,9.1,2000,Superhit
+brahmastrapartoneshiva,0.55,Hindi,166,5.6,Live Action,"Fantasy, romance, mythology ",1,1,1,1,1,1,1,1,1,0,0,0,1,1,Ranbir Kapoor,Alia Bhatt,Ayan Mukerji,400,431,31141305,825,9.1,4000,Average
+bhoolbhulaiyaa,0.25,Hindi,154,7.4,Live Action,"Comedy, Horror, Mystery",1,1,1,0,1,1,1,1,1,0,1,1,1,0,Akshay Kumar,Vidya Balan,Priyadarshan,32,82.35,4225784,93,9.1,1000,Hit
+bhoolbhulaiyaa2,,Hindi,145,5.7,Live Action,"Comedy, Horror, Mystery",1,1,1,0,1,1,1,1,1,0,1,1,1,0,Kartik Aaryan,Kiara Advani,Anees Bazmee,70,266.88,82303827,1800,8.5,3000,Blockbuster
+dwitiyopurush,0.25,Bengali,128,6.1,Live Action,"Drama, Mystery, Thriller",0,1,1,0,1,0,0,0,1,0,1,0,1,0,Parambrata Chatterjee,Raima Sen,Srijit Mukherjee,1.5,5,1728208,38,8.1,1000,Average
+kornosubornerguptodhan,,Bengali,128,6,Live Action,"Adventure, Mystery, Thriller",0,1,1,0,0,0,0,0,1,0,1,0,1,0,Abir Chatterjee,Ishaa Saha,Dhrubo Banerjee,1.5,9.4,2628639,48,9.1,1000,Superhit
+3idiots,0.35,Hindi,171,8.4,Live Action,"Comedy, Drama, Slice-of-life",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Aamir Khan,Kareena Kapoor,Rajkumar Hirani,55,400.61,82303827,1800,9.1,1500,Blockbuster
+themartian,0.25,English,141,8,Live Action,"Adventure,Drama,Sci-Fi",1,1,1,1,0,0,0,0,1,0,1,0,0,1,Matt Damon,Jessica Chastain,Ridley Scott,108,653.6,20302877,95,8.2,10000,Blockbuster
+thedavincicode,0.333333333333333,English,149,6.6,Live Action,"Mystery, Thriller",0,1,1,1,1,0,0,0,1,0,0,0,1,1,Tom Hanks,Audrey Tautou,Ron Howard,125,767,1663534,58,7.9,10000,Superhit
+angelsdemons,0.35,English,138,6.7,Live Action,"Mystery, Thriller",0,1,1,1,1,0,0,0,1,0,0,0,1,1,Tom Hanks,Ayelet Zurer,Ron Howard,150,490.87,1663534,62,8.1,10000,Hit
+inferno,0.05,English,121,6.2,Live Action,"Mystery, Thriller",0,1,1,1,1,0,0,0,1,0,0,0,1,0,Tom Hanks,Felicity Jones,Ron Howard,75,219.52,13831264,39,7.9,10000,Hit
+sherlockholmes,0.5,English,129,7.6,Live Action,"Action,Adventure,Crime",0,0,1,1,1,1,1,0,1,0,1,0,1,0,Robert Downey Jr.,Rachel McAdams,Guy Ritchie,90,498.44,681076,2.5,8.2,7500,Superhit
+sherlockholmesagameofshadows,,English,129,7.4,Live Action,"Action,Adventure,Crime",0,0,1,1,1,1,1,0,1,0,1,0,1,0,Robert Downey Jr.,Noomi Rapace,Guy Ritchie,125,535.66,467937,2.3,8.2,7500,Superhit
+begumjaan,0.15,Hindi,127,5.6,Live Action,"Drama, History",0,1,0,0,0,0,0,0,0,0,0,0,0,0,Naseeruddin Shah,Vidya Balan,Srijit Mukherjee,19,30.61,37527718,172,8.2,1000,Flop
+thevow,0.15,English,104,6.8,Live Action,"Romance, drama",0,1,1,0,0,0,0,1,0,0,0,0,0,0,Channing Tatum,Rachel McAdams,Michael Sucsy,30,197.61,6100000,34,8,1000,Hit
+thenotebook,0.25,English,124,7.8,Live Action,"Romance, drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Ryan Gosling,Rachel McAdams,Nick Cassavetes,29,115.94,904820,6.8,8,1000,Hit
+awalktoremember,0.5,English,102,7.3,Live Action,"Romance, drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Shane West,Mandy Moore,Adam Shankman,11.8,46.06,3300000,19,9,1000,Average
+thelastsong,,English,107,6,Live Action,"Romance, drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Liam Hemsworth,Miley Cyrus,Julie Anne Robinson,20,92.67,232199,1.4,10,1000,Hit
+thebestofme,0,English,118,6.6,Live Action,"Romance, drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,James Marsden,Michelle Monaghan,Michael Hoffman,26,41.06,7750399,21,8,1000,Average
+safehaven,0.35,English,115,6.6,Live Action,"Romance, drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Josh Duhamel,Julianne Hough,Lasse Hallström,28,94.05,5666100,18,8,1000,Average
+lifeasweknowit,0.2,English,115,6.5,Live Action,"Romance, comedy",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Josh Duhamel,Katherine Heigl,Greg Berlanti,38,105.88,2152012,15,7.5,1000,Hit
+dearjohn,0.25,English,108,6.3,Live Action,"Romance, drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Channing Tatum,Amanda Seyfried,Lasse Hallström,25,142.03,13488231,51,8,1000,Superhit
+mammamia,0.25,English,109,6.5,Live Action,"Romance, musical",1,1,1,1,0,1,1,1,0,1,1,0,1,1,Pierce Brosnan,Meryl Streep,Phyllida Lloyd,52,589.71,1149710,1.1,10,1000,Blockbuster
+intime,0.35,English,109,6.7,Live Action,"Sci-fi, action",1,1,1,1,1,1,0,1,1,0,1,1,1,1,Justin Timberlake,Amanda Seyfried,Andrew Niccol,40,165.1,1326678,5.9,6.7,1000,Superhit
+jennifersbody,0.333333333333333,English,102,5.4,Live Action,"Horror, comedy",1,1,1,1,1,1,0,0,1,1,1,1,1,1,,Amanda Seyfried,Karyn Kusama,16,31.94,3515736,21,5,1000,Average
+lucy,0.3,English,90,6.4,Live Action,"Sci-fi, action",1,1,1,1,1,1,0,0,1,1,1,1,1,1,,Scarlett Johansson,Luc Besson,40,457.51,44357212,180,8,1000,Superhit
+777charlie,,Other Regional,164,8.8,Live Action,"Adventure, Comedy, Drama",0,0,1,1,0,0,1,1,0,0,0,0,0,0,Rakshit Shetty,Sangeetha Sringeri,Kiranraj K,20,105,9121875,134,8,2000,Superhit
+rocketrythenambieffect,0.35,Other Regional,157,8.8,Live Action,"Biography, Drama",1,1,1,0,0,1,1,1,1,0,0,0,1,1,R Madhavan,Simran,Madhavan,55,45.25,15923686,646,6,500,Flop
+sitaramam,,Other Regional,163,8.6,Live Action,"Action, Drama, Mystery",0,1,1,0,0,0,1,1,1,0,0,0,0,0,Dulquer Salmaan,Mrunal Thakur,Hanu Raghavapudi,30,94.28,3309900,94,7.5,1000,Blockbuster
+jersey,,Hindi,170,7.3,Live Action,"Drama, Sport",0,1,1,0,0,1,0,1,1,0,0,0,0,0,Sahid Kapoor,Mrunal Thakur,Gowtam Tinnanuri,80,27.9,68325590,1100,7.1,2000,Disaster
+kaithi,0.2,Other Regional,146,8.4,Live Action,"Action, Adventure, Crime",0,1,1,0,0,1,0,0,1,0,0,0,1,0,Karthi,Baby Monica,Lokesh Kanagaraj,25,105,16349443,150,7.6,1000,Hit
+chaarsahibzaade2riseofbandasinghbahadur,0.45,Other Regional,134,8.5,Animated,"History, Drama",0,1,1,0,0,1,0,0,1,0,0,0,1,0,Om Puri,,Harry Baweja,20,60,2849251,22,6.9,750,Average
+avengersendgame,0.15,English,181,8.4,Live Action,"Action, Adventure, Drama",1,1,1,0,1,1,0,0,0,0,1,0,0,0,Robert Downey Jr.,Scarlett Johansson,Russo Brothers,400,2794.73,155568297,3800,9.2,20000,Blockbuster
+avengersinfinitywar,0.35,English,149,8.4,Live Action,"Action, Adventure, Drama",1,1,1,0,1,1,0,0,0,0,1,0,0,0,Robert Downey Jr.,Scarlett Johansson,Russo Brothers,400,2048.36,259269459,4100,9,20000,Blockbuster
+djangounchained,0.4,English,165,8.4,Live Action,Drama,1,1,1,1,1,1,0,0,1,0,1,0,1,1,Jamie Foxx,,Quentin Tarantino,100,449.86,1359979,10,7.5,5000,Superhit
+nationaltheatrelivecoriolanus,,English,123,8.5,Live Action,"Drama, History, War",0,1,1,1,0,1,0,0,0,0,0,0,0,0,Tom Hiddleston,Jessica Chastain,Josie Rourke,2.4,7.7,1803688,3.8,6.5,5000,Hit
+sardarudham,,Hindi,162,8.4,Live Action,"Biography, Drama, Crime",0,1,1,0,0,0,0,0,1,0,0,0,1,0,Vicky Kaushal,,Shoojit Sircar,30,84.5,39696971,345,7.2,,Hit
+asuran,,Other Regional,140,8.4,Live Action,"Action, Drama",0,1,1,0,1,1,0,0,1,0,0,1,1,0,Dhanush,,Vetrimaaran,32,67,14716917,419,7.1,1000,Superhit
+dilbechara,,Hindi,101,8.4,Live Action,"Comedy, Drama, Romance",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Sushant Singh Rajput,Sanjana Sanghi,Mukesh Chhabra,30,90,96487445,10000,8,,Superhit
+mahanati,0.15,Other Regional,169,8.4,Live Action,"Biography, Drama",0,1,1,0,0,0,1,1,1,0,1,0,0,0,Dulquer Salmaan,Keerthu Suresh,Nag Ashwin,25,83,10430584,99,6.9,750,Blockbuster
+joker,0.15,English,122,8.4,Live Action,"Crime, Drama, Thriller",1,1,1,1,1,1,0,0,1,0,1,1,1,1,Joaquin Phoenix,Zazie Beetz,Todd Phillips,70,1066.21,100012933,100000,8.1,10000,Blockbuster
+vikram,,Other Regional,174,8.3,Live Action,"Action, Crime, Thriller",0,1,1,0,0,0,0,0,0,0,0,0,0,0,Kamal Haasan,,Lokesh Kanagaraj,120,500,45606960,1300,7.6,2000,Blockbuster
+dangal,0.3,Hindi,161,8.3,Live Action,"Action, Biography, Drama",1,1,1,1,0,1,1,0,0,0,1,0,1,0,Aamir Khan,Fatima Sana Shaikh,Nitesh Tiiwari,70,2200,71962950,417,7.3,4000,Blockbuster
+lokmanyaekyugpurush,,Other Regional,139,8.3,Live Action,"History, Drama",0,1,1,0,0,0,1,0,0,0,0,0,0,0,Subodh Bhave,Priya Bapat,Om Raut,7,13,533164,9.1,7.6,750,Average
+kantara,,Other Regional,150,8.3,Live Action,"Action, Adventure, Drama",0,0,1,0,0,0,0,0,0,0,0,0,0,0,Rishab Shetty,Sapthami Gowda,Rishab Shetty,16,450,4303718,165,8.1,1000,Blockbuster
+shershaah,,Hindi,135,8.3,Live Action,"Action, Romance",0,1,1,1,0,1,0,0,0,0,0,0,0,0,Sidharth Malhotra,Kiara Advani,Vishnuvardhan,50,100,59969798,963,9,,Superhit
+drishyam2,,Hindi,140,8.2,Live Action,"Crime,Drama,Mystery,Thriller",0,1,1,0,1,0,0,0,1,0,0,1,1,0,Ajay Devgan,Shriya Saran,Abhishek Pathak,50,345.05,18829894,410,8,3000,Hit
+gangsofwasseypur,0.5,Hindi,160,8.2,Live Action,"Action, Comedy, Crime",0,1,1,1,1,1,0,0,1,0,0,1,1,0,Manoj Bajpayee,Huma Qureshi,Anurag Kashayp,18.4,33.9,1749291,17,7.9,1000,Flop
+bhaagmilkhabhaag,0.3,Hindi,186,8.2,Live Action,"Biography, Drama, Sport",1,1,1,1,0,1,1,0,1,1,1,0,1,0,Farhan Akhtar,Divya Dutta,Rakeysh Omprakash Mehra,53,168,3218564,10,8.1,1500,Superhit
+paansinghtomar,0.25,Hindi,135,8.2,Live Action,"Action, Biography, Drama",1,1,1,1,0,1,1,0,1,0,1,0,1,0,Irrfan Khan,Mahie Gill,Tigmanshu Dhulia,4.5,38.4,906046,8.3,8.1,200,Average
+shahid,0.45,Hindi,123,8.2,Live Action,"Biography, Drama",0,1,1,0,1,1,0,0,1,0,1,0,1,0,Rajkumar Rao,Prabhleen Sandhu,Hansal Mehta,6.5,2.92,216629,1.7,6.9,300,Flop
+thewolfofwallstreet,0.4,English,180,8.2,Live Action,"Biography, Crime, Drama",0,1,1,1,1,1,0,0,1,0,1,0,1,0,Leonardo DiCaprio,Margot Robbie,Martin Scorsese,100,392,137083279,106,8.6,3400,Blockbuster
+spidermannowayhome,0.3,English,148,8.4,Live Action,"Action, Adventure, Fantasy",1,0,1,1,0,1,1,0,0,0,0,0,0,1,Tom Holland,Zendaya,Jon Watts,200,1941,375870664,182,7.8,4336,Blockbuster
+drishyam,0.25,Hindi,163,8.2,Live Action,"Crime, Drama, Mystery",0,1,1,0,1,0,0,0,1,0,0,1,1,0,Ajay Devgn,Shriya Saran,Nishikant Kamat,5,9,3712486,62,8.2,2000,Superhit
+ramaramare,0.45,Other Regional,100,8.1,Live Action,"Drama, Road Movie",0,1,1,0,0,0,0,0,1,0,1,0,0,0,K. Jayaram,Bimbashree  Ninasam,D. Sathyaprakash,0.75,1.055,2511,13,7.5,50,Average
+thefather,0.571428571428571,English,97,8.3,Live Action,Drama,0,1,1,0,0,0,0,0,1,0,0,0,1,0,Anthony Hopkins,Olivia Colman,Florian Zeller,20,46,3921804,59,7.4,2000,Superhit
+vikramvedha,0.25,Other Regional,147,8.6,Live Action,"Action, Crime, Drama",0,1,1,0,0,0,0,0,0,0,0,0,1,0,Madhavan,Vijay Sethupathi,Pushkar-Gayathri,11,41.2,29645874,424,8.2,1000,Superhit
+greenbook,0.25,English,130,8.2,Live Action,"Biography, Comedy, Drama",0,1,1,0,1,0,0,0,1,0,0,0,1,0,Viggo Mortensen,Mahershala Ali,Peter Farrelly,23,322.1,9815187,96,8,2641,Hit
+andhadhun,0.4,Hindi,139,8.3,Live Action,"Crime, Thriller, Comedy",1,1,1,0,1,0,0,0,1,0,1,0,1,1,Ayushmann Khurrana,Radhika Apte,Sriram Raghavan,3.3,50,12624246,110,8,1500,Superhit
+1917,0.55,English,119,8.3,Live Action,"War, Drama",1,1,1,1,1,0,0,0,1,0,1,0,1,0,George MacKay,Dean-Charles Chapman,Sam Mendes,90,374.7,32615238,320,8.5,3434,Hit
+nilbatteysannata,0.333333333333333,Hindi,100,8.5,Live Action,"Drama, Family, Comedy",0,1,0,1,0,0,1,1,1,0,1,0,0,0,Swara Bhaskar,Ratna Pathak Shah,Ashwiny Iyer Tiwari,3.5,13.9,1250225,300,7.9,500,Average
+major,,Other Regional,135,8.5,Live Action,"Biography, Drama, Sport",0,1,1,0,0,1,1,1,0,0,0,0,1,0,Adivi Sesh,Sobhita Dhulipala,Sashi Kiran Tikka,7,15,1204535,727,8.5,1000,Hit
+montevideovidimose,0,Other Regional,141,8,Live Action,"Comedy, Drama, Sport",0,0,1,1,0,0,0,1,0,0,1,0,0,0,Milorad Mandic,,Dragan Bjelogrlic,5,13.5,6456827,257,7.6,300,Average
+logan,0.35,English,137,8.1,Live Action,"Action, Drama, Sci-Fi",0,1,1,0,1,1,0,0,0,0,0,0,1,1,Hugh Jackman,Patrick Stewart,James Mangold,97,619,19260316,382,7.8,4000,Superhit
+barfi,0.4,Hindi,151,8.1,Live Action,"Comedy, Drama, Romance",0,1,1,1,0,0,1,1,1,0,1,0,0,0,Ranbir Kapoor,Priyanka Chopra,Anurag Basu,30,41,14398176,700,7.2,1000,Hit
+queen,0.454545454545455,Hindi,146,8.2,Live Action,"Adventure, Comedy, Drama",0,1,1,0,0,0,1,1,0,0,1,0,0,0,Kangana Ranaut,Rajkummar Rao,Vikas Bahl,13.5,21.6,13579428,895,6.8,1000,Superhit
+prisoners,0.35,English,153,8.1,Live Action,"Crime, Drama, Mystery",0,1,1,0,1,1,0,0,0,0,0,0,1,0,Hugh Jackman,Jake Gyllenhaal,Denis Villeneuve,46,122.1,33645332,3290,8.4,3000,Hit
+12yearsaslave,0.6,English,134,8.1,Live Action,"Biography, Drama, History",0,1,1,0,1,0,0,0,1,0,0,0,1,0,Chiwetel Ejiofor,Michael Kenneth Williams,Steve McQueen,22,187.7,24863829,1411,7.5,1000,Superhit
+spotlight,0.55,English,129,8.1,Live Action,"Biography, Crime, Drama",0,1,1,0,1,0,0,0,1,0,0,0,1,0,Mark Ruffalo,Michael Keaton,Tom McCarthy,20,98.3,13246161,1089,7.7,1000,Hit
+misssaigon,0.55,English,150,7.8,Live Action,"Musical, Drama, Romance",0,0,1,0,0,0,0,1,1,0,0,0,0,0,David Lead-Actor,Emma Lead-Actress,Sarah Director,45,80,4500000,120,8,900,Average
+thegrandbudapesthotel,0.45,English,100,8.1,Live Action,"Adventure, Comedy, Crime",1,1,1,0,0,0,0,1,0,0,1,0,0,0,Ralph Fiennes,Tony Revolori,Wes Anderson,25,172.9,25984557,1467,8,1000,Hit
+article15,,Hindi,130,8.2,Live Action,"Crime, Drama, Thriller",0,1,1,1,1,0,0,0,1,0,0,0,1,0,Ayushmann Khurrana,Isha Talwar,Anubhav Sinha,28,94.8,14142090,1250,6.7,1000,Hit
+section375,0.2,Hindi,124,8.1,Live Action,"Crime, Drama, Thriller",0,1,1,0,1,1,0,0,1,0,0,0,1,0,Akshaye Khanna,Richa Chadha,Anubhav Sinha,32,45,7546938,996,6.7,1000,Average
+fordvferrari,0.35,English,152,8.1,Live Action,"Action, Biography, Drama",0,1,1,0,1,1,0,0,1,0,0,0,0,0,Matt Damon,Christian Bale,James Mangold,97.6,225.5,15343000,3528,8.3,3000,Superhit
+gonegirl,0.5,English,149,8.1,Live Action,"Drama, Mystery, Thriller",0,1,1,1,1,1,0,0,0,0,0,0,1,0,Ben Affleck,Rosamund Pike,David Fincher,61,369.3,21487510,3335,8.5,3000,Superhit
+madmaxfuryroad,0.15,English,120,8.1,Live Action,"Action, Adventure, Sci-Fi",0,1,1,0,1,1,0,0,1,0,0,0,1,1,Tom Hardy,Charlize Theron,George Miller,150,374.7,17547223,3700,8.5,3000,Superhit
+hacksawridge,0.55,English,139,8.1,Live Action,"Biography, Drama, History",0,1,1,1,1,1,0,0,1,0,0,0,1,0,Andrew Garfield,Sam Worthington,Mel Gibson,40,175.3,14692192,2967,8.1,2500,Superhit
+threebillboardsoutsideebbingmissouri,0.5,English,115,8.1,Live Action,"Crime, Drama, Mystery",0,1,1,1,1,0,0,0,1,0,0,0,1,0,Frances McDormand,Woody Harrelson,Martin McDonagh,15,160.2,18059147,1578,8.3,1500,Hit
+bajrangibhaijaan,,Hindi,163,8,Live Action,"Action, Adventure, Comedy",0,1,1,0,0,1,1,1,1,0,1,0,0,0,Salman Khan,Kareena Kapoor Khan,Kabir Khan,67,597.5,7225000,4700,7.5,3000,Blockbuster
+mommy,0.5,Other Regional,139,8.1,Live Action,Drama,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Anne Dorval,Antoine-Olivier Pilon,Xavier Dolan,5.1,10.4,11704,10,8,1000,Hit
+shipoftheseus,0.25,Hindi,143,8,Live Action,"Drama, Mystery, Sci-Fi",0,1,1,0,0,0,0,1,1,0,1,0,0,1,Sohum Shah,Aida El-Kashef,Anand Gandhi,2,4,46789,10,6.2,500,Average
+special26,0.25,Hindi,144,8,Live Action,"Crime, Drama, Thriller",0,1,1,0,0,0,0,1,1,0,1,0,1,0,Akshay Kumar,Kajal Agarwal,Neeraj Pandey,42,131,7012889,1750,7.5,1000,Hit
+kaksparsh,,Other Regional,145,8,Live Action,Drama,0,1,1,0,1,0,0,0,1,0,1,0,0,0,Sachin Khedekar,Priya Bapat,Mahesh Manjrekar,5,3.4,389000,7,7.1,500,Superhit
+her,0.35,English,126,8,Live Action,"Drama, Romance, Sci-Fi",0,1,1,0,0,0,0,1,0,0,1,0,0,1,Joaquin Phoenix,Scarlett Johansson,Spike Jonze,23,47.4,12476144,1729,8.1,1500,Superhit
+songofthesea,0.55,English,93,8.1,Animated,"Animation, Adventure, Family",1,1,1,1,0,0,1,1,1,0,1,0,0,0,David Rawle,Brendan Gleeson,Tomm Moore,10,9.9,1935670,171,8,500,Average
+theimitationgame,0.55,English,113,8,Live Action,"Biography, Drama, Thriller",0,1,0,0,0,0,0,0,1,0,0,0,0,0,Benedict Cumberbatch,Kiera Knightley,Morten Tyldum,14,233.6,16328722,1566,7.8,1500,Blockbuster
+lion,0.3,English,118,8,Live Action,"Biography, Drama",0,1,0,1,0,0,1,0,0,0,0,0,0,0,Dev Patel,Rooney Mara,Garth Davis,12,140.3,16392227,1056,8,1000,Blockbuster
+guardiansofthegalaxy,0.181818181818182,English,121,8,Live Action,"Action, Adventure, Comedy",1,0,0,1,0,1,0,0,0,0,1,0,0,0,Chris Pratt,Zoe Saldana,James Gunn,170,773.3,33120963,4080,8.4,3000,Blockbuster
+lalaland,0.3,English,128,8,Live Action,"Comedy, Drama, Music",0,1,1,0,0,0,0,0,0,0,1,0,0,0,Ryan Gosling,Emma Stone,Damien Chazelle,30,445.3,29475474,1870,8.5,1500,Blockbuster
+mukkabaaz,0.333333333333333,Hindi,145,8,Live Action,"Drama, Sport",0,1,0,0,0,0,0,0,0,1,0,0,0,0,Vineet Kumar Singh,Zoya Hussain,Anurag Kashyap,6,10.1,6489635,600,7,1000,Hit
+bladerunner2049,0.2,English,164,8,Live Action,"Action, Drama, Mystery",0,1,0,0,0,1,0,0,1,0,0,0,0,0,Ryan Gosling,Harrison Ford,Denis Villeneuve,150,259.3,23908527,3850,8,3000,Blockbuster
+deadpool,0.5,English,108,8,Live Action,"Action, Adventure, Comedy",0,1,0,1,0,1,0,0,0,0,1,0,0,0,Ryan Reynolds,Morena Baccarin,Tim Miller,58,782.6,24146036,3558,8.5,3000,Blockbuster
+therevenant,0.35,English,156,8,Live Action,"Action, Adventure, Biography",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Leonardo DiCaprio,Tom Hardy,Alejandro González Iñárritu,135,533,32524012,3711,7.6,3000,Blockbuster
+whokilledcaptainalex,0.2,English,68,7.6,Live Action,"Action, Comedy, Crime",0,0,0,0,0,1,0,0,0,0,1,0,1,0,Lydia Draru,Paulo Bwoya,Nabwana I.G.G.,5,78.9,1232566,22,6.5,1000,Disaster
+thorragnarok,0.3,English,130,7.9,Animated,"Action, Adventure, Comedy",0,0,0,1,0,1,0,0,0,0,1,0,0,0,Chris Hemsworth,Tom Hiddleston,Taika Waititi,180,854.02,105156279,4088,7.5,3000,Blockbuster
+serbuanmaut2berandal,0.214285714285714,Other Regional,150,8,Live Action,"Action, Crime, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,1,0,Iko Uwais,Yayan Ruhian,Gareth Evans,4.5,6.57,20825407,114,8.1,3000,Hit
+xmendaysoffuturepast,0.25,English,131,8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Patrick Stewart,James McAvoy,Bryan Singer,200,747.9,50471115,3996,7.9,3000,Blockbuster
+lifeofpi,0.4,English,127,7.9,Live Action,"Adventure, Drama, Fantasy",1,1,0,1,0,0,0,0,0,0,0,0,0,0,Suraj Sharma,Irrfan Khan,Ang Lee,120,609,34057966,2927,7.8,2000,Blockbuster
+ugly,0.35,Hindi,127,8.1,Live Action,"Crime, Drama, Mystery",0,1,0,0,0,0,0,0,1,0,0,0,1,0,Ronit Roy,Tejaswini Kolhapure,Anurag Kashyap,4,27.9,1327186,18,7.9,1000,Hit
+ankhondekhi,0.45,Hindi,107,8,Live Action,"Drama, Comedy, Slice of Life",0,1,0,0,0,0,1,0,0,0,1,0,0,0,Sanjay Mishra,Rajat Kapoor,Rajat Kapoor,0.24,1.2,812004,137,7.5,200,Average
+vishwaroopam,,Other Regional,148,8.4,Live Action,"Action, Thriller, Espionage",0,0,0,0,1,1,0,0,0,0,0,0,0,0,Kamal Haasan,Pooja Kumar,Kamal Haasan,11.4,24,3244903,517,8.2,1000,Blockbuster
+theperksofbeingawallflower,0.4,English,103,8,Live Action,"Drama, Romance, Coming-of-Age",0,1,0,0,0,0,0,1,0,0,0,0,0,0,Logan Lerman,Emma Watson,Stephen Chbosky,13,33.39,26832292,746,7.8,500,Hit
+dallasbuyersclub,0.3,English,117,8,Live Action,"Biography, Drama, History",0,1,0,0,0,0,0,0,0,0,0,0,0,0,Matthew McConaughey,Jennifer Garner,Jean-Marc Vallée,5,55.77,7933866,48,8,500,Hit
+beforemidnight,0.1,English,109,7.9,Live Action,"Drama,Romance",0,1,0,0,0,0,0,1,0,0,0,0,0,0,Ethan Hawke,Julie Delpy,Richard Linklater,3,8.11,1636743,3,8.1,1000,Average
+shortterm12,0.45,English,96,8,Live Action,"Drama, Music",0,1,1,0,0,0,0,0,0,0,0,0,0,0,Brie Larson,John Gallagher Jr.,Destin Daniel Cretton,1,2.97,4059758,75,8,500,Hit
+baby,0.3,Hindi,159,8,Live Action,"Action, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,0,0,Akshay Kumar,Taapsee Pannu,Neeraj Pandey,25,151,13970122,820,8,2000,Blockbuster
+singstreet,0.5,English,106,8,Live Action,"Comedy, Drama, Music",0,1,1,0,0,0,0,0,0,0,1,0,0,0,Ferdia Walsh-Peelo,Lucy Boynton,John Carney,4,14.8,802492,136,7.8,1000,Hit
+avatar,0.55,English,162,7.8,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Sam Worthington,Zoe Saldana,James Cameron,237,2797.8,12879427,4416,7.5,4000,Blockbuster
+piratesofthecaribbeanatworldsend,,English,169,7.1,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Johnny Depp,Keira Knightley,Gore Verbinski,300,963.4,58475498,4362,7.5,4000,Blockbuster
+spectre,0.3,English,148,6.8,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Daniel Craig,Lea Seydoux,Sam Mendes,245,880.7,51984818,3972,6.5,4000,Blockbuster
+thedarkknightrises,0.4,English,165,8.4,Live Action,"Action, Adventure, Crime",0,0,0,1,0,1,0,0,0,0,0,0,1,0,Christian Bale,Anne Hathaway,Christopher Nolan,250,1081.03,55550594,5600,8.7,20000,Blockbuster
+johncarter,0.6,English,132,6.6,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Taylor Kitsch,Lynn Collins,Andrew Stanton,263.7,284.14,59542958,3800,6.7,1500,Average
+spiderman3,0.2,English,139,6.2,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Tobey Maguire,Kirsten Dunst,Sam Raimi,258,890.87,44666711,4200,7.4,5000,Blockbuster
+tangled,,English,100,7.7,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,1,Mandy Moore,Zachary Levi,Nathan Greno,260,592.46,65890491,3600,7.1,1000,Blockbuster
+avengersageofultron,0.3,English,141,7.3,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Robert Downey Jr.,Chris Evans,Joss Whedon,250,1405.4,85406755,4276,7.6,10000,Blockbuster
+harrypotterandthehalfbloodprince,0,English,153,7.6,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Daniel Radcliffe,Emma Watson,David Yates,250,934.48,103247131,4325,7.2,5000,Blockbuster
+batmanvsupermandawnofjustice,0.35,English,151,6.4,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Ben Affleck,Henry Cavill,Zack Snyder,250,873.63,98781584,4247,7.5,5000,Blockbuster
+supermanreturns,0.45,English,154,6,Live Action,"Action, Sci-Fi",0,0,0,0,0,1,0,0,0,0,0,0,0,1,Brandon Routh,Kate Bosworth,Bryan Singer,270,391.08,56732452,4065,7.8,1000,Blockbuster
+quantumofsolace,0.4,English,106,6.6,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Daniel Craig,Olga Kurylenko,Marc Forster,200,586.09,25004927,4238,6.2,5000,Blockbuster
+piratesofthecaribbeandeadmanschest,,English,151,7.3,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Johnny Depp,Keira Knightley,Gore Verbinski,225,1066.18,49431889,4252,8,5000,Blockbuster
+theloneranger,0.45,English,149,6.4,Live Action,"Action, Adventure, Western",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Johnny Depp,Armie Hammer,Gore Verbinski,225,260.51,42061546,3952,7,3400,Average
+manofsteel,0.35,English,143,7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Henry Cavill,Amy Adams,Zack Snyder,225,668.05,74493329,4207,6.8,4336,Average
+thechroniclesofnarniaprincecaspian,0.5,English,150,6.5,Live Action,"Action, Adventure, Family",0,0,0,1,0,1,1,0,0,0,0,0,0,0,Georgie Henley,William Moseley,Andrew Adamson,225,419.66,38980321,3998,6.6,2000,Average
+theavengers,0.25,English,143,8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Robert Downey Jr.,Scarlett Johansson,Joss Whedon,220,1519.56,108096770,4349,7.7,50,Blockbuster
+piratesofthecaribbeanonstrangertides,0.45,English,136,6.6,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Johnny Depp,Penelope Cruz,Rob Marshall,250,1045.71,74738505,4155,6.6,2000,Blockbuster
+meninblack3,0.55,English,106,6.8,Live Action,"Action, Adventure, Comedy",0,0,0,1,0,1,0,0,0,0,1,0,0,0,Will Smith,Tommy Lee Jones,Barry Sonnenfeld,225,624.03,41715112,4222,6.7,1000,Average
+thehobbitthebattleofthefivearmies,0.545454545454545,English,144,7.4,Live Action,"Adventure, Fantasy, Action",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Ian McKellen,Martin Freeman,Peter Jackson,250,956.02,91023599,3868,7.1,2641,Blockbuster
+theamazingspiderman,0.3,English,136,6.9,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Andrew Garfield,Emma Stone,Marc Webb,230,757.93,67788973,4315,7.3,1500,Average
+robinhood,0.333333333333333,English,140,6.6,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Russell Crowe,Cate Blanchett,Ridley Scott,200,321.67,46526962,3423,6.7,3434,Average
+thehobbitthedesolationofsmaug,0.45,English,161,7.8,Live Action,"Adventure, Fantasy, Action",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Ian McKellen,Martin Freeman,Peter Jackson,250,956.02,91023599,6100,7.2,500,Blockbuster
+thegoldencompass,0.25,English,113,6.1,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Nicole Kidman,Dakota Blue Richards,Chris Weitz,180,372.23,11198823,306,5.9,1000,Blockbuster
+kingkong,,English,187,7.2,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Naomi Watts,Jack Black,Peter Jackson,207,550.5,34548177,660,6.9,300,Blockbuster
+titanic,0.35,English,195,7.8,Live Action,"Drama, Romance",0,1,0,0,0,0,0,1,0,0,0,0,0,0,Leonardo DiCaprio,Kate Winslet,James Cameron,200,2195.17,99968678,6900,7.9,4000,Blockbuster
+captainamericacivilwar,0.6,English,147,7.8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Evans,Robert Downey Jr.,Anthony Russo,250,1153.3,61849296,5060,7.6,1000,Blockbuster
+battleship,0.2,English,131,5.8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Taylor Kitsch,Liam Neeson,Peter Berg,209,313.21,20066749,4573,5.8,1000,Flop
+jurassicworld,0.35,English,124,7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Pratt,Bryce Dallas Howard,Colin Trevorrow,150,1670.4,44948711,4274,7,3000,Blockbuster
+skyfall,0.4,English,143,7.7,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Daniel Craig,Javier Bardem,Sam Mendes,200,1108.6,18650795,3955,7.7,1000,Blockbuster
+spiderman2,0.2,English,127,7.3,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Tobey Maguire,Kirsten Dunst,Sam Raimi,200,783.77,27424003,4379,7.4,1000,Blockbuster
+ironman3,0.3,English,130,7.2,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Robert Downey Jr.,Gwyneth Paltrow,Shane Black,200,1214.81,27368721,4053,7.2,900,Blockbuster
+aliceinwonderland,,English,108,6.4,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Johnny Depp,Mia Wasikowska,Tim Burton,200,1025.47,13561512,2790,6.6,1000,Blockbuster
+xmenthelaststand,0.2,English,104,6.7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Hugh Jackman,Halle Berry,Brett Ratner,210,459.36,15729769,3375,6.6,1000,Blockbuster
+monstersuniversity,,English,107,7.3,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Billy Crystal,John Goodman,Dan Scanlon,200,743.56,62652664,3908,7.5,1000,Blockbuster
+transformersrevengeofthefallen,,English,150,6,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Shia LaBeouf,Megan Fox,Michael Bay,200,836.3,17579388,4234,6,3000,Blockbuster
+transformersageofextinction,0.3,English,165,5.6,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Mark Wahlberg,Nicola Peltz,Michael Bay,210,1104.04,26658886,4532,5.6,3000,Blockbuster
+ozthegreatandpowerful,0.45,English,130,6.3,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,James Franco,Mila Kunis,Sam Raimi,215,493.31,12950426,4229,6.2,3000,Hit
+theamazingspiderman2,0.25,English,142,6.6,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Andrew Garfield,Emma Stone,Marc Webb,255,709,29207492,4324,6.5,2500,Hit
+tronlegacy,0.35,English,125,6.8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Jeff Bridges,Garrett Hedlund,Joseph Kosinski,200,400.06,20059314,3920,6.8,1500,Hit
+cars2,,English,106,6.1,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Owen Wilson,Larry the Cable Guy,John Lasseter,200,559.85,23564933,3990,6,3000,Hit
+greenlantern,0.5,English,114,5.5,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Ryan Reynolds,Blake Lively,Martin Campbell,200,219.85,14143783,3912,5.5,1000,Flop
+toystory3,,English,103,8.2,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tom Hanks,Tim Allen,Lee Unkrich,200,1067,55212849,4028,8.1,500,Blockbuster
+terminatorsalvation,0.45,English,115,6.5,Live Action,"Action, Sci-Fi, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,0,1,Christian Bale,Bryce Dallas Howard,McG,200,371.35,21822789,295,7.5,1000,Blockbuster
+furious7,0.4,English,137,7.1,Live Action,"Action, Adventure, Crime, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,1,0,Vin Diesel,,James Wan,190,1515,645073114,3720,8.9,500,Blockbuster
+worldwarz,0.3,English,116,7,Live Action,"Action, Adventure, Horror, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,1,0,1,Michael Fassbender,,Marc Forster,190,540,1211580085,3660,7.3,1500,Blockbuster
+startrekintodarkness,0.45,English,132,7.7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Pine,,J.J. Abrams,190,467.37,328258712,3865,7.2,8000,Blockbuster
+jackthegiantslayer,0.3,English,114,6.2,Live Action,"Adventure, Fantasy, Family",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Nicholas Hoult,,Bryan Singer,195,197.69,194092603,3523,6.3,8000,Blockbuster
+thegreatgatsby,0.1,English,143,7.2,Live Action,"Drama, Romance, Crime",0,1,0,0,0,0,0,1,0,0,0,0,1,0,Leonardo DiCaprio,Carey Mulligan,Baz Luhrmann,105,353.64,31623542,3525,7,3000,Blockbuster
+princeofpersiathesandsoftime,0.4,English,116,6.6,Live Action,"Action, Adventure, Fantasy, Video Game",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Jake Gyllenhaal,Gemma Arterton,Mike Newell,200,336.37,32764877,4185,7.5,3000,Blockbuster
+pacificrim,0.3,English,131,6.9,Live Action,"Action, Adventure, Sci-Fi, Monsters",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Charlie Hunnam,Rinko Kikuchi,Guillermo del Toro,190,411,41047359,3912,7.9,3000,Blockbuster
+transformersdarkofthemoon,0.05,English,154,6.2,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Shia LaBeouf,Rosie Huntington-Whiteley,Michael Bay,195,1123.8,59153427,4642,7.2,3000,Blockbuster
+indianajonesandthekingdomofthecrystalskull,0.4,English,122,6.1,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Harrison Ford,Cate Blanchett,Steven Spielberg,185,786.64,38164256,3840,7.6,2000,Blockbuster
+thegooddinosaur,,English,93,6.7,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Jeffrey Wright,Frances McDormand,Peter Sohn,200,332.21,135378769,3846,7.8,7000,Blockbuster
+brave,,English,93,7.1,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Kelly Macdonald,Emma Thompson,Mark Andrews,185,540.4,66429338,1209,7.6,6000,Blockbuster
+startrekbeyond,0.5,English,122,7.1,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Pine,Zoe Saldana,Justin Lin,185,343.47,43190020,392,7,8000,Hit
+walle,0.333333333333333,English,98,8.4,Animated,"Animation, Adventure, Family",0,0,0,1,0,0,1,0,0,0,0,0,0,0,Ben Burtt,Elissa Knight,Andrew Stanton,180,532.45,32873978,180,8,6000,Blockbuster
+2012,0.45,English,158,5.8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,John Cusack,Amanda Peet,Roland Emmerich,200,769.68,11157798,209,7.3,4000,Hit
+jupiterascending,0.4,English,127,5.3,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Channing Tatum,Mila Kunis,The Wachowskis,176,183.9,18487685,132,6,4300,Flop
+thelegendoftarzan,0.15,English,110,6.2,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Alexander Skarsgård,Margot Robbie,David Yates,180,356.74,28456586,129,6.7,4200,Hit
+thechroniclesofnarniathelionthewitchandthewardrobe,0.473684210526316,English,143,6.9,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Georgie Henley,Skandar Keynes,Andrew Adamson,180,745.01,45848504,61,7.4,4080,Blockbuster
+xmenapocalypse,0.35,English,144,6.9,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,James McAvoy,Michael Fassbender,Bryan Singer,178,543.94,37471155,4036,6.9,5000,Hit
+up,,English,96,8.2,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Edward Asner,Jordan Nagai,Pete Docter,175,735.1,26290691,3833,8,5000,Blockbuster
+monstersvsaliensmutantpumpkinsfromouterspace,,English,88,7.2,Animated,"Animation, Comedy, Sci-Fi",0,0,0,0,0,0,0,0,0,0,1,0,0,1,Jane Doe,John Smith,Peter Ramsey,75,53.21,15987422,672,8,4000,Average
+ironman,0.3,English,126,7.9,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Robert Downey Jr.,Gwyneth Paltrow,Jon Favreau,140,585.17,59815026,4084,8,3000,Blockbuster
+hugo,,English,126,7.5,Live Action,"Adventure, Drama, Family",0,1,0,1,0,0,1,0,0,0,0,0,0,0,Asa Butterfield,Chloë Grace Moretz,Martin Scorsese,150,185.77,19425872,1902,7.7,3400,Hit
+wildwildwest,0.333333333333333,English,106,4.9,Live Action,"Action, Comedy, Sci-fi",0,0,0,0,0,1,0,0,0,0,1,0,0,1,Will Smith,Kevin Kline,Barry Sonnenfeld,170,222.11,12151590,3355,6.5,4336,Flop
+themummytombofthedragonemperor,0.55,English,112,5.2,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Brendan Fraser,Jet Li,Rob Cohen,145,401.13,19564025,3742,5.9,2000,Hit
+suicidesquad,0.15,English,123,6,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Will Smith,Jared Leto,David Ayer,175,746.84,103029485,4251,6.1,50,Blockbuster
+evanalmighty,0.65,English,96,5.4,Live Action,"Comedy, Family, Fantasy",1,0,0,0,0,0,1,0,0,0,1,0,0,0,Steve Carell,Morgan Freeman,Tom Shadyac,175,174.11,21762904,3762,6.3,2000,Flop
+edgeoftomorrow,0.25,English,113,7.9,Live Action,"Action, Sci-fi",0,0,0,0,0,1,0,0,0,0,0,0,0,1,Tom Cruise,Emily Blunt,Doug Liman,178,370.54,83617422,3519,7.9,1000,Blockbuster
+waterworld,0.538461538461538,English,135,6.2,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Kevin Costner,Jeanne Tripplehorn,Kevin Reynolds,172,264.22,20443243,2713,7.2,2641,Flop
+gijoetheriseofcobra,,English,118,5.8,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Channing Tatum,Sienna Miller,Stephen Sommers,175,302.47,23731534,4074,5.7,1500,Blockbuster
+insideout,,English,95,8.1,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Amy Poehler,Phyllis Smith,Pete Docter,175,857.61,70172243,4158,8.6,3434,Blockbuster
+thejunglebook,,English,106,7.4,Live Action,"Adventure, Drama, Family",0,1,0,1,0,0,1,0,0,0,0,0,0,0,Neel Sethi,,Jon Favreau,175,966.55,65215186,4144,7.6,500,Blockbuster
+ironman2,0.55,English,124,7,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Robert Downey Jr.,Gwyneth Paltrow,Jon Favreau,200,623.93,65536419,4390,6.5,1000,Blockbuster
+snowwhiteandthehuntsman,0.2,English,127,6.1,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Kristen Stewart,Chris Hemsworth,Rupert Sanders,170,396.59,23440502,3946,6.4,300,Hit
+maleficent,0.1875,English,97,7,Live Action,"Action, Adventure, Family",0,0,0,1,0,1,1,0,0,0,0,0,0,0,Angelina Jolie,Elle Fanning,Robert Stromberg,180,758.54,56756737,3948,7.2,4000,Blockbuster
+dawnoftheplanetoftheapes,0.3,English,130,7.6,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Andy Serkis,Jason Clarke,Matt Reeves,170,710.64,76795196,3700,8,1000,Blockbuster
+thelovers,0.2,English,109,6.1,Live Action,"Comedy, Romance",0,0,0,0,0,0,0,1,0,0,1,0,0,0,Tracy Letts,Debra Winger,Azazel Jacobs,12,7.56,5625862,98,7,1000,Flop
+47ronin,0.2,English,119,6.3,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Keanu Reeves,Hiroyuki Sanada,Carl Rinsch,175,151.79,17008422,2730,6.3,3000,Flop
+captainamericathewintersoldier,0.35,English,136,7.7,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Evans,Scarlett Johansson,Anthony Russo,170,714.42,91346117,3986,7.4,1000,Blockbuster
+shrekforeverafter,,English,93,6.3,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Mike Myers,Cameron Diaz,Mike Mitchell,135,752.6,62590430,4321,6.4,1000,Blockbuster
+tomorrowland,0.4,English,130,6.4,Live Action,"Action, Adventure, Family",0,0,0,1,0,1,1,0,0,0,0,0,0,0,George Clooney,Britt Robertson,Brad Bird,190,209.18,39446871,3987,7,900,Hit
+bighero6,,English,102,7.8,Animated,"Animation, Action, Adventure",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Scott Adsit,Ryan Potter,Don Hall,165,657.82,85947661,3810,7.2,1000,Blockbuster
+wreckitralph,,English,101,7.7,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,John C. Reilly,Sarah Silverman,Rich Moore,165,471.22,45024298,3765,7.7,1000,Blockbuster
+thepolarexpress,,English,100,6.6,Animated,"Animation, Adventure, Family",0,0,0,1,0,0,1,0,0,0,0,0,0,0,Tom Hanks,Leslie Zemeckis,Robert Zemeckis,165,311.4,24028933,3295,6.7,1000,Blockbuster
+independencedayresurgence,0.45,English,120,5.2,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Liam Hemsworth,Jeff Goldblum,Roland Emmerich,165,389.68,40208740,4117,6,3000,Blockbuster
+howtotrainyourdragon,,English,98,8.1,Animated,"Animation, Action, Adventure",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Jay Baruchel,Gerard Butler,Dean DeBlois,165,494.88,28882790,4144,8.1,3000,Blockbuster
+terminator3riseofthemachines,,English,109,6.3,Live Action,"Action, Sci-fi, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,0,1,Arnold Schwarzenegger,Claire Danes,Jonathan Mostow,200,433.37,32855284,3624,7,3000,Hit
+inception,0.333333333333333,English,148,8.8,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Leonardo DiCaprio,Ellen Page,Christopher Nolan,160,829.9,19896705,3793,8.7,3000,Blockbuster
+shingodzilla,0.45,Other Regional,120,6.6,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Hiroki Hasegawa,Yutaka Takenouchi,Hideaki Anno,15,77.9,3020288,334,7.1,1000,Hit
+thehobbitanunexpectedjourney,0.25,English,169,7.8,Live Action,"Adventure, Fantasy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,Martin Freeman,Ian McKellen,Peter Jackson,180,1021.1,42299213,4724,7.2,500,Blockbuster
+thefastandthefurious,0.55,English,106,6.8,Live Action,"Action, Crime, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,1,0,Vin Diesel,Paul Walker,Rob Cohen,38,207.3,12096242,2690,6.7,1000,Blockbuster
+thecuriouscaseofbenjaminbutton,0.125,English,166,7.8,Live Action,"Drama, Fantasy, Romance",1,1,0,0,0,0,0,1,0,0,0,0,0,0,Brad Pitt,Cate Blanchett,David Fincher,150,333.93,15103195,2950,7.7,500,Blockbuster
+xmenfirstclass,,English,132,7.7,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,James McAvoy,Michael Fassbender,Matthew Vaughn,160,353.62,16171871,3743,7.8,1500,Blockbuster
+thehungergamesmockingjaypart2,0.35,English,137,6.5,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Jennifer Lawrence,Josh Hutcherson,Francis Lawrence,160,653.43,59014577,4175,6.6,3000,Blockbuster
+thesorcerersapprentice,0.25,English,109,6.1,Live Action,"Action, Adventure, Family",0,0,0,1,0,1,1,0,0,0,0,0,0,0,Nicolas Cage,Jay Baruchel,Jon Turteltaub,150,215.3,24961132,3735,6,3000,Hit
+poseidon,0.4,English,98,5.6,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Josh Lucas,Kurt Russell,Wolfgang Petersen,160,181.67,17431964,3454,6,3000,Blockbuster
+alicethroughthelookingglass,0.5,English,113,6.2,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Mia Wasikowska,Johnny Depp,James Bobin,170,299.46,47307889,3844,6.3,3000,Blockbuster
+shrekthethird,,English,93,6,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Mike Myers,Eddie Murphy,Chris Miller,160,798.98,19571275,4122,6,3000,Blockbuster
+warcraft,0.4,English,123,6.8,Live Action,"Action, Adventure, Fantasy",1,0,0,1,0,1,0,0,0,0,0,0,0,0,Travis Fimmel,Paula Patton,Duncan Jones,160,439.03,41015393,3923,7.2,3000,Blockbuster
+terminatorgenisys,0.3,English,126,6.3,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Arnold Schwarzenegger,Emilia Clarke,Alan Taylor,155,439.52,36120384,3956,6.1,3000,Blockbuster
+thechroniclesofnarniathevoyageofthedawntreader,0.45,English,113,6.3,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Georgie Henley,Skandar Keynes,Michael Apted,155,418.19,26196163,3365,6.2,3000,Hit
+pearlharbor,0.35,English,183,6.2,Live Action,"Action, Drama, History",0,1,0,0,0,1,0,0,0,0,0,0,0,0,Ben Affleck,Kate Beckinsale,Michael Bay,140,449.22,17080245,3361,6.7,3000,Hit
+transformers,0.25,English,144,7,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Shia LaBeouf,Megan Fox,Michael Bay,150,709.71,35911225,4131,7.3,3000,Blockbuster
+alexander,0.45,English,175,5.6,Live Action,"Action, Biography, Drama",0,1,0,0,0,1,0,0,0,0,0,0,0,0,Colin Farrell,Angelina Jolie,Oliver Stone,155,167.3,13341106,2945,7,3000,Flop
+harrypotterandtheorderofthephoenix,0,English,138,7.5,Live Action,"Action, Adventure, Family",0,0,0,1,0,1,1,0,0,0,0,0,0,0,Daniel Radcliffe,Emma Watson,David Yates,150,942.04,51198000,4375,7.4,3000,Blockbuster
+harrypotterandthegobletoffire,0.05,English,157,7.7,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Daniel Radcliffe,Emma Watson,Mike Newell,150,896.4,26964000,3850,7.7,3000,Blockbuster
+hancock,0,English,92,6.4,Live Action,"Action, Fantasy, Sci-fi",1,0,0,0,0,1,0,0,0,0,0,0,0,1,Will Smith,Charlize Theron,Peter Berg,150,624.38,37125000,3880,6.4,3000,Superhit
+iamlegend,0.2,English,101,7.2,Live Action,"Drama, Horror, Sci-fi",0,1,0,0,0,0,0,0,0,0,0,1,0,1,Will Smith,Alice Braga,Francis Lawrence,150,585.35,45540000,3662,7.2,3000,Blockbuster
+charlieandthechocolatefactory,0.45,English,115,6.6,Live Action,"Adventure, Comedy, Family",0,0,0,1,0,0,1,0,0,0,1,0,0,0,Johnny Depp,Freddie Highmore,Tim Burton,150,474.97,16841247,3625,7.1,3000,Hit
+ratatouille,,English,111,8,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Patton Oswalt,Ian Holm,Brad Bird,150,623.72,15046588,4008,7.9,3000,Superhit
+batmanbegins,0.2,English,140,8.2,Live Action,"Action, Adventure, Crime",0,0,0,1,0,1,0,0,0,0,0,0,1,0,Christian Bale,Michael Caine,Christopher Nolan,150,373.41,14708365,3607,8.2,3000,Superhit
+madagascarescape2africa,,English,89,6.6,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Ben Stiller,Chris Rock,Eric Darnell,150,603.9,21800000,4057,6.6,3000,Hit
+nightatthemuseumbattleofthesmithsonian,,English,105,6,Live Action,"Adventure, Comedy, Family",0,0,0,1,0,0,1,0,0,0,0,0,0,0,Ben Stiller,Amy Adams,Shawn Levy,150,413.11,16549540,4096,5.8,3000,Blockbuster
+xmenoriginswolverine,1,English,107,6.6,Live Action,"Action, Adventure, Sci-fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Hugh Jackman,Liev Schreiber,Gavin Hood,150,373.06,14750000,4094,6.5,3000,Hit
+thematrixrevolutions,0.35,English,129,6.7,Live Action,"Action, Sci-fi",0,0,0,0,0,1,0,0,0,0,0,0,0,1,Keanu Reeves,Laurence Fishburne,Wachowskis,150,427.34,13548396,4120,7.4,3000,Hit
+frozen,,English,102,7.4,Animated,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",0,1,1,1,0,0,1,1,0,0,1,0,0,0,Kristen Bell,Idina Menzel,Chris Buck,150,1509,1736415911,1500,7.5,4000,Blockbuster
+thematrixreloaded,0.3,English,138,7.2,Live Action,"Action, Sci-Fi",0,0,0,0,0,1,0,0,0,0,1,0,0,1,Keanu Reeves,Laurence Fishburne,Lana Wachowski,150,742.13,3763955,3250,6.8,5000,Blockbuster
+thorthedarkworld,0.3,English,112,6.9,Live Action,"Action, Adventure, Fantasy, Sci-Fi, Superhero",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Hemsworth,Natalie Portman,Alan Taylor,170,644.57,1044397000,4300,6.5,5000,Hit
+thor,0.15,English,115,7,Live Action,"Action, Adventure, Fantasy, Superhero",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Chris Hemsworth,Natalie Portman,Kenneth Branagh,150,449.33,2992055,3956,6.8,5000,Blockbuster
+bolt,0.3,English,96,6.8,Animated,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",0,1,0,1,0,0,1,0,0,0,1,0,0,1,John Travolta,Miley Cyrus,Byron Howard,150,328.02,2319156,3500,7.1,4000,Hit
+gforce,0,English,88,5.1,Animated,"Action, Adventure, Comedy, Family, Fantasy",0,1,1,1,1,0,0,0,0,0,0,0,0,0,Zach Galifianakis,Penélope Cruz,Hoyt Yeatman,150,292.82,1003696,3681,5.6,3400,Average
+wrathofthetitans,,English,99,5.7,Live Action,"Action, Adventure, Fantasy, Mythology",0,1,0,1,0,0,0,0,0,0,0,0,0,0,Sam Worthington,Rosamund Pike,Jonathan Liebesman,150,305.28,899276,3715,5.7,4336,Hit
+darkshadows,0.35,English,113,6.2,Live Action,"Comedy, Fantasy, Horror, Gothic",0,0,0,0,0,0,0,1,0,0,1,1,0,0,Johnny Depp,Eva Green,Tim Burton,150,245.53,2144711,3856,7.1,2000,Average
+missionimpossibleroguenation,0.2,English,131,7.4,Animated,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Tom Cruise,Rebecca Ferguson,Christopher McQuarrie,150,682.71,10047246,3750,7.4,50,Blockbuster
+thewolfman,0.333333333333333,English,103,5.8,Live Action,"Horror, Drama, Thriller, Fantasy",1,1,0,0,1,0,0,0,0,0,0,0,0,1,Benicio Del Toro,Emily Blunt,Joe Johnston,150,139.79,1106941,3618,6.4,2000,Flop
+beemovie,,English,91,6.1,Animated,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",0,0,0,1,0,1,1,0,0,0,1,0,0,1,Jerry Seinfeld,Renée Zellweger,Steve Hickner,150,287.59,2312775,3582,6,1000,Hit
+kungfupanda2,,English,90,7.2,Animated,"Animation, Action, Adventure, Comedy, Family, Fantasy, Martial Arts, Superhero",0,0,0,1,0,1,1,0,0,0,1,0,0,1,Jack Black,Angelina Jolie,Jennifer Yuh Nelson,150,665.69,2191055,3955,7.4,2641,Blockbuster
+thelastairbender,,English,103,4,Animated,"Action, Adventure, Fantasy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Noah Ringer,Dev Patel,M. Night Shyamalan,150,318.76,1306100,3192,5,1500,Flop
+missionimpossibleiii,0,English,126,6.9,Animated,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,1,Tom Cruise,Michelle Monaghan,J.J. Abrams,150,397.85,3483218,3912,6.9,3434,Hit
+whitehousedown,0.25,English,131,6.4,Live Action,"Action, Drama, Thriller",0,1,0,1,1,1,0,0,0,0,0,0,0,0,Channing Tatum,Jamie Foxx,Roland Emmerich,150,205.37,1679054,3728,6.6,500,Hit
+marsneedsmoms,0.3,English,88,5.4,Animated,"Animation, Adventure, Comedy, Family, Sci-Fi",0,0,0,1,0,0,1,0,0,0,1,0,0,1,Seth Green,Joan Cusack,Simon Wells,150,39.23,1026764,3101,6,1000,Disaster
+flushedaway,0.35,English,85,6.6,Animated,"Animation, Adventure, Comedy, Family, Slapstick",0,0,0,1,0,0,1,0,0,0,1,0,0,0,Hugh Jackman,Kate Winslet,Peter Lord,150,179.37,2522790,3606,6.5,300,Average
+pan,0.15,English,111,5.7,Animated,"Adventure, Family, Fantasy, Musical, Drama, Comedy, Animation, Fantasy",1,1,0,1,0,0,1,0,0,0,1,0,0,1,Levi Miller,Rooney Mara,Joe Wright,150,128.39,3978739,3903,6.1,4000,Disaster
+mrpeabodysherman,,English,92,6.8,Animated,"Animation, Adventure, Comedy, Family, Sci-Fi",1,0,0,1,0,0,1,0,0,0,1,0,0,1,Ty Burrell,Max Charles,Rob Minkoff,150,275.71,1068764,3753,7.4,1000,Hit
+troy,0.315789473684211,English,163,7.2,Live Action,"Action, Adventure, Drama, History",0,1,0,1,0,0,0,0,0,0,0,0,1,0,Brad Pitt,Eric Bana,Wolfgang Petersen,150,497.41,3165607,3474,6.6,1000,Hit
+madagascar3europesmostwanted,0,English,93,6.8,Animated,"Animation, Adventure, Comedy, Family, Circus, 3D",1,0,0,1,0,0,1,0,0,0,1,0,0,1,Ben Stiller,Jada Pinkett Smith,Eric Darnell,150,746.92,2606764,4087,7.5,3000,Blockbuster
+dieanotherday,0.6,English,133,6.1,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,1,Pierce Brosnan,Halle Berry,Lee Tamahori,150,431.97,1539754,3645,6.1,1000,Hit
+ghostbusters,0.45,English,105,5.2,Animated,"Comedy, Fantasy, Sci-Fi",0,0,0,0,0,0,0,0,0,0,1,1,0,1,Theodore Shapiro,Melissa McCarthy,Paul Feig,150,229.15,1072455,3922,6.1,1000,Blockbuster
+armageddon,0,English,151,6.7,Animated,"Action, Adventure, Drama, Sci-Fi, Thriller",0,1,0,1,1,1,0,0,0,0,0,0,0,1,Trevor Rabin,Bruce Willis,Michael Bay,150,553.71,1788500,3399,7,900,Blockbuster
+meninblackii,0.25,English,88,6.2,Animated,"Comedy, Sci-Fi, Action, Adventure, Mystery, 3D",0,0,0,1,0,1,0,0,1,0,1,0,0,1,Danny Elfman,Tommy Lee Jones,Barry Sonnenfeld,150,441.82,2548061,3515,6.3,1000,Hit
+beowulf,,English,115,6.2,Live Action,"Animation, Action, Adventure",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Ray Winstone,Angelina Jolie,Robert Zemeckis,150,163.71,13440546,15,7,1000,Hit
+kungfupanda3,,English,95,7.1,Animated,"Animation, Action, Adventure",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Jack Black,Angelina Jolie,Alessandro Carloni,145,521.17,16732066,82,7.3,1000,Hit
+missionimpossibleghostprotocol,0.35,English,133,7.4,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Tom Cruise,Paula Patton,Brad Bird,145,694.71,30589352,134,7.5,3000,Blockbuster
+riseoftheguardians,,English,97,7.3,Animated,"Animation, Action, Adventure",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Hugh Jackman,Isla Fisher,Peter Ramsey,145,306.94,14851747,76,7.1,3000,Average
+funwithdickandjane,0,English,90,6.1,Live Action,"Comedy, Crime, Romance",0,1,0,0,0,0,0,1,0,0,1,0,1,0,Jim Carrey,Téa Leoni,Dean Parisot,100,202.02,2875348,34,6.4,3000,Hit
+thelastsamurai,0.666666666666667,English,154,7.7,Live Action,"Action, Drama, War",0,1,0,0,0,1,0,0,0,0,0,0,0,0,Tom Cruise,Ken Watanabe,Edward Zwick,140,456.81,12357211,83,8,2500,Hit
+exodusgodsandkings,0.2,English,150,6,Live Action,"Action, Adventure, Drama",0,1,0,1,0,0,0,0,0,0,0,0,0,0,Christian Bale,Joel Edgerton,Ridley Scott,140,268.03,14216894,69,7.4,1500,Average
+startrek,0,English,127,7.9,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Chris Pine,Zachary Quinto,J.J. Abrams,140,385.68,12045854,43,7.8,3000,Blockbuster
+spiderman,,English,121,7.3,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tobey Maguire,Kirsten Dunst,Sam Raimi,140,821.71,18987727,100,8.4,1000,Blockbuster
+howtotrainyourdragon2,,English,102,7.8,Animated,"Animation, Action, Adventure",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Jay Baruchel,Cate Blanchett,Dean DeBlois,140,621.53,13401964,61,7.6,500,Blockbuster
+godsofegypt,0.2,English,127,5.4,Live Action,"Action, Adventure, Fantasy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Brenton Thwaites,Nikolaj Coster-Waldau,Alex Proyas,140,150.7,8732211,61,6.8,1000,Flop
+stealth,0.25,English,121,5,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Josh Lucas,Jessica Biel,Rob Cohen,140,77.14,4231234,44,6.1,500,Flop
+watchmen,0.25,English,162,7.6,Live Action,"Action, Drama, Mystery",0,1,0,0,0,0,0,0,1,0,0,0,0,0,Jackie Earle Haley,Malin Akerman,Zack Snyder,140,185.25,14712875,38,6.9,1500,Average
+lethalweapon4,1,English,127,6.6,Live Action,"Action, Crime, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,1,0,Mel Gibson,Danny Glover,Richard Donner,140,285.4,6723211,63,6,3000,Hit
+hulk,0.3,English,138,5.6,Live Action,"Action, Sci-Fi, Drama",0,1,0,0,0,1,0,0,0,0,0,0,1,1,Eric Bana,Jennifer Connelly,Ang Lee,140,245.36,9865432,56,6.2,3400,Average
+gijoeretaliation,,English,110,5.8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Dwayne Johnson,Adrianne Palicki,Jon M. Chu,130,375.74,22654980,66,7.1,4336,Hit
+sahara,,English,124,6,Live Action,"Action, Adventure, Comedy",0,0,0,1,0,1,0,0,0,0,1,0,0,0,Matthew McConaughey,Penélope Cruz,Breck Eisner,130,119.27,7540211,61,7,2000,Flop
+finalfantasythespiritswithin,0.4,English,106,6.4,Animated,"Animation, Action, Adventure",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Ming-Na Wen,Alec Baldwin,Hironobu Sakaguchi,137,85.13,5432121,74,7.5,50,Disaster
+captainamericathefirstavenger,0.2,English,124,6.9,Animated,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Chris Evans,Hayley Atwell,Joe Johnston,140,370.57,9864432,68,7,2000,Blockbuster
+theworldisnotenough,1,English,128,6.4,Live Action,Action,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Pierce Brosnan,Sophie Marceau,Michael Apted,135,362.5,98,12.1,4.5,1000,Hit
+masterandcommanderthefarsideoftheworld,0.65,English,138,7.4,Live Action,"Adventure, Drama, War",0,1,0,1,0,0,0,0,0,0,0,0,0,0,Russell Crowe,Paul Bettany,Peter Weir,150,212.01,5048384,9,8,2641,Hit
+thetwilightsagabreakingdawnpart2,0.2,English,115,5.5,Live Action,"Adventure, Drama, Fantasy",0,1,0,1,0,0,0,0,0,0,0,0,0,0,Kristen Stewart,Robert Pattinson,Bill Condon,120,829.75,5786387,10,7,1500,Blockbuster
+happyfeettwo,,English,100,5.9,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Elijah Wood,Pink,George Miller,135,150.4,9875427,6,7.5,3434,Flop
+theincrediblehulk,0.05,English,112,6.7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Edward Norton,Liv Tyler,Louis Leterrier,150,263.43,8485676,8,7,500,Average
+thebfg,0.2,English,117,6.4,Animated,"Adventure, Family, Fantasy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,Mark Rylance,Ruby Barnhill,Steven Spielberg,140,195.24,4992708,6,7.5,1000,Flop
+turbo,0.35,English,96,6.4,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Ryan Reynolds,Paul Giamatti,David Soren,135,282.57,4369245,9,7,4000,Average
+rango,0,English,107,7.2,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Johnny Depp,Isla Fisher,Gore Verbinski,135,245.72,3461438,9,7,1000,Hit
+penguinsofmadagascar,,English,92,6.7,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tom McGrath,PG,Eric Darnell,135,373.51,3322211,7,7,1000,Hit
+thebourneultimatum,0.2,English,115,8,Live Action,"Action, Mystery, Thriller",0,0,0,1,1,1,0,0,1,0,0,0,1,0,Matt Damon,Julia Stiles,Paul Greengrass,110,442.82,1763506,8,7,3000,Blockbuster
+kungfupanda,,English,92,7.5,Animated,"Animation, Action, Adventure, Comedy, Family, Sport",0,0,0,1,0,1,0,0,0,1,1,0,0,0,Jack Black,Angelina Jolie,Mark Osborne,135,631.74,7584541,10,7,1000,Blockbuster
+antman,0.35,English,117,7.3,Live Action,"Action, Adventure, Comedy, Sci-Fi",0,0,0,1,0,0,0,0,0,0,1,0,0,1,Paul Rudd,Evangeline Lilly,Peyton Reed,130,519.31,5839275,7,7,1000,Blockbuster
+thehungergamescatchingfire,0.4,English,146,7.5,Live Action,"Action, Adventure, Mystery, Sci-Fi, Thriller",0,0,0,1,1,1,0,0,1,0,0,0,0,1,Jennifer Lawrence,Josh Hutcherson,Francis Lawrence,130,865.01,7794988,12,7,900,Blockbuster
+home,,English,94,6.6,Animated,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",0,0,0,1,0,0,1,0,0,0,1,0,0,1,Jim Parsons,Rihanna,Tim Johnson,135,386.04,7227331,9,6,1000,Hit
+waroftheworlds,,English,116,6.5,Live Action,"Adventure, Sci-Fi, Thriller",0,0,0,1,1,0,0,0,0,0,0,0,0,1,Tom Cruise,Dakota Fanning,Steven Spielberg,132,704.93,6784766,5,7,1000,Blockbuster
+badboysii,,English,147,6.6,Live Action,"Action, Comedy, Crime, Thriller",0,0,0,1,0,1,0,0,0,0,1,0,1,0,Will Smith,Martin Lawrence,Michael Bay,130,273.34,4076101,4,7,1000,Hit
+pussinboots,,English,90,6.6,Animated,"Animation, Action, Adventure, Comedy, Family, Fantasy, Western",0,0,0,1,0,0,1,0,0,0,1,0,0,0,Antonio Banderas,Salma Hayek,Chris Miller,130,555.94,5406150,5,6,3000,Hit
+salt,0.25,English,100,6.4,Live Action,"Action, Crime, Drama, Mystery, Thriller",0,1,0,0,1,1,0,0,1,0,0,0,1,0,Angelina Jolie,Liev Schreiber,Phillip Noyce,110,293.5,6647274,6,6,3000,Hit
+noah,0.45,English,138,5.8,Live Action,"Action, Adventure, Drama, Fantasy",0,1,0,1,0,0,0,0,0,0,0,0,0,0,Russell Crowe,Jennifer Connelly,Darren Aronofsky,125,362.64,5400000,7,7,3000,Hit
+theadventuresoftintin,,English,107,7.3,Animated,"Animation, Action, Adventure, Family, Mystery, Comedy",0,1,0,1,0,0,1,0,1,0,1,0,0,0,Jamie Bell,Daniel Craig,Steven Spielberg,135,374.98,6400000,6,7,2500,Hit
+harrypotterandtheprisonerofazkaban,0,English,142,7.9,Live Action,"Adventure, Family, Fantasy",0,1,0,1,0,0,1,0,0,0,0,0,0,0,Daniel Radcliffe,Emma Watson,Alfonso Cuarón,130,796.69,1184098,6,7,1500,Blockbuster
+australia,,English,165,6.6,Live Action,"Drama, Romance, War",0,1,0,0,0,0,0,1,0,0,0,0,0,0,Hugh Jackman,Nicole Kidman,Baz Luhrmann,130,211.34,13362534,13,6,3000,Hit
+afterearth,0.25,English,100,4.8,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Will Smith,Jaden Smith,M. Night Shyamalan,130,243.84,17151880,18,4,1000,Flop
+dinosaur,,English,82,6.4,Animated,"Animation, Adventure, Family",0,0,0,1,0,0,1,0,0,0,0,0,0,0,D.B. Sweeney,Julianna Margulies,Eric Leighton,127.5,349.8,1874673,11,7,500,Hit
+nightatthemuseumsecretofthetomb,0,English,98,6.2,Live Action,"Adventure, Comedy, Family",0,1,0,1,0,0,1,0,0,0,0,0,0,0,Ben Stiller,Robin Williams,Shawn Levy,127,363.2,42963259,13,7,1000,Hit
+megamind,0.4,English,96,7.2,Animated,"Animation, Action, Comedy",0,1,0,1,0,0,0,0,0,0,1,0,0,0,Will Ferrell,Brad Pitt,Tom McGrath,130,321.89,33096293,16,7.5,500,Hit
+ripd,0.55,English,96,5.6,Live Action,"Action, Comedy, Fantasy",0,0,0,0,0,1,0,0,0,0,1,0,0,1,Ryan Reynolds,Jeff Bridges,Robert Schwentke,130,78.32,26873816,14,6.5,3000,Flop
+piratesofthecaribbeanthecurseoftheblackpearl,,English,143,8,Live Action,"Action, Adventure, Fantasy",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Johnny Depp,Keira Knightley,Gore Verbinski,140,654.26,9484888,31,8.5,3000,Blockbuster
+thehungergamesmockingjaypart1,0.2,English,123,6.6,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Jennifer Lawrence,Josh Hutcherson,Francis Lawrence,125,755.37,26735333,21,7.3,4000,Blockbuster
+rio2,,English,101,6.3,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,Jesse Eisenberg,Anne Hathaway,Carlos Saldanha,103,131.54,62943129,999,7.2,5000,Hit
+x2xmenunited,0,English,134,7.4,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Hugh Jackman,Halle Berry,Bryan Singer,110,407.71,23911428,1029,7,5000,Blockbuster
+fastfive,0.35,English,130,7.3,Live Action,"Action, Adventure, Crime",0,0,0,1,0,1,0,0,0,0,0,0,1,0,Vin Diesel,Paul Walker,Justin Lin,125,626.14,10444237,1274,6.7,5000,Blockbuster
+sherlockholmesagameofshadows,,English,129,7.5,Live Action,"Action, Adventure, Crime",0,0,0,1,0,1,0,0,0,0,0,0,1,0,Robert Downey Jr.,Jude Law,Guy Ritchie,200,545.45,2983337,488,6.7,5000,Hit
+clashofthetitans,0.45,English,106,5.8,Live Action,"Action, Adventure, Fantasy",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Sam Worthington,Gemma Arterton,Louis Leterrier,125,493.21,10475210,1118,6.1,5000,Hit
+totalrecall,0.25,English,113,7.5,Live Action,"Action, Sci-Fi, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,1,Arnold Schwarzenegger,Sharon Stone,Paul Verhoeven,65,261.28,3191738,380,6.6,2000,Flop
+the13thwarrior,0.5,English,102,6.6,Live Action,"Action, Adventure, History",0,0,0,1,0,1,0,0,0,0,0,0,0,0,Antonio Banderas,Vladimir Kulich,John McTiernan,160,61.7,2247053,236,7,2000,Flop
+thebournelegacy,0.45,English,135,6.6,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Jeremy Renner,Rachel Weisz,Tony Gilroy,125,276.57,1523000,579,6.8,2000,Hit
+batman,0.4,English,126,7.5,Live Action,"Action, Adventure, Crime",0,0,0,1,0,1,0,0,0,0,0,0,1,0,Michael Keaton,Kim Basinger,Tim Burton,48,411.35,4586889,13,8.1,10000,Blockbuster
+howthegrinchstolechristmas,0.1,English,104,6.2,Live Action,"Comedy, Family, Fantasy",0,0,0,1,0,0,1,0,0,0,1,0,0,0,Jim Carrey,Taylor Momsen,Ron Howard,123,345.08,6149348,3,6.8,5000,Blockbuster
+thedayaftertomorrow,0,English,124,6.4,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,0,0,0,0,0,1,0,0,1,Dennis Quaid,Jake Gyllenhaal,Roland Emmerich,125,544.27,4413008,1,6.5,2000,Blockbuster
+missionimpossibleii,,English,123,6.1,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Tom Cruise,Thandie Newton,John Woo,125,546.39,11036988,1,5.4,2000,Blockbuster
+theperfectstorm,0.357142857142857,English,130,6.4,Live Action,"Adventure, Drama, Thriller",0,1,0,1,1,0,0,0,0,0,0,0,0,0,George Clooney,Mark Wahlberg,Wolfgang Petersen,140,325.76,3414506,4,5.6,2000,Blockbuster
+ghostrider,0.25,English,114,5.2,Live Action,"Action, Fantasy, Thriller",0,0,0,1,1,0,0,0,0,0,0,0,0,1,Nicolas Cage,Eva Mendes,Mark Steven Johnson,110,228.74,1576768,56,6,2500,Hit
+jasonbourne,0.45,English,123,6.6,Live Action,"Action, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,0,1,Matt Damon,Alicia Vikander,Paul Greengrass,120,415.48,26562362,2800,6.5,6000,Hit
+charliesangelsfullthrottle,0.230769230769231,English,106,4.9,Live Action,"Action, Adventure, Comedy",0,0,0,1,0,1,0,0,0,0,1,0,0,0,Cameron Diaz,Drew Barrymore,McG,120,259.13,14104012,3459,5,1000,Hit
+prometheus,0.375,English,124,7,Live Action,"Adventure, Mystery, Sci-Fi",0,0,0,1,0,0,0,0,1,0,0,0,0,1,Noomi Rapace,Michael Fassbender,Ridley Scott,130,403.4,23308797,137,7,1000,Hit
+stuartlittle2,0.3,English,77,5.5,Animated,"Adventure, Comedy, Family",0,0,0,1,0,0,1,0,0,0,1,0,0,0,Michael J. Fox,Melanie Griffith,Rob Minkoff,120,170.1,5235667,37,5,500,Hit
+elysium,0.15,English,109,6.6,Live Action,"Action, Drama, Sci-Fi",0,1,0,1,0,1,0,1,0,0,0,0,0,1,Matt Damon,Jodie Foster,Neill Blomkamp,115,286.14,12210085,105,7,2000,Hit
+thechroniclesofriddick,0.0666666666666666,English,134,6.7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Vin Diesel,Judi Dench,David Twohy,105,115.77,10345971,97,6.9,2000,Flop
+robocop,0.2,English,102,7.5,Live Action,"Action, Crime, Sci-Fi",0,0,0,0,0,1,0,0,0,0,0,0,1,1,Peter Weller,Nancy Allen,Paul Verhoeven,13.7,53.42,17135422,72,7.4,1000,Flop
+speedracer,0.4,English,135,6,Live Action,"Action, Adventure, Comedy",0,0,0,1,0,1,0,0,0,0,1,0,0,1,Emile Hirsch,Christina Ricci,The Wachowskis,120,93.95,12321667,28,7,2000,Flop
+howdoyouknow,0.55,English,116,5.4,Live Action,"Comedy, Drama, Romance",0,1,0,0,0,0,0,1,0,0,1,0,0,0,Reese Witherspoon,Paul Rudd,James L. Brooks,120,49.27,81051,10,6,2000,Flop
+knightandday,0.45,English,109,6.3,Live Action,"Action, Adventure, Comedy, Romance",0,0,0,1,0,1,0,1,0,0,1,0,0,0,Tom Cruise,Cameron Diaz,James Mangold,117,261.93,35328,25,6,3000,Average
+oblivion,0.3,English,124,7,Live Action,"Action, Adventure, Mystery, Sci-Fi",0,0,0,1,1,1,0,0,1,0,0,0,0,1,Tom Cruise,Olga Kurylenko,Joseph Kosinski,120,286.17,41107424,42,7.5,3000,Hit
+starwarsepisodeiiirevengeofthesith,0.45,English,140,7.5,Live Action,"Action, Adventure, Fantasy, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Ewan McGregor,Natalie Portman,George Lucas,113,850,61695615,137,9,3500,Blockbuster
+starwarsepisodeiiattackoftheclones,,English,142,6.5,Live Action,"Action, Adventure, Fantasy, Sci-Fi",0,0,0,1,0,0,0,0,0,0,0,0,0,1,Ewan McGregor,Natalie Portman,George Lucas,120,649.4,42563574,106,9,3500,Blockbuster
+monstersinc,0.529411764705882,English,92,8,Animated,"Animation, Adventure, Comedy, Family, Fantasy, Sport",0,0,0,1,0,0,1,0,0,1,1,0,0,1,John Goodman,Billy Crystal,Pete Docter,115,577.44,62891540,574,9,3000,Blockbuster
+thewolverine,0.3,English,126,6.7,Live Action,"Action, Adventure, Sci-fi, Thriller, War",0,1,0,1,1,1,0,0,0,0,0,0,0,1,Hugh Jackman,Tao Okamoto,James Mangold,120,414.83,20648015,91,8,3000,Hit
+starwarsepisodeithephantommenace,0.6,English,136,6.5,Live Action,"Action, Adventure, Fantasy, Sci-Fi",0,0,0,1,0,1,0,0,0,0,0,0,0,1,Liam Neeson,Keira Knightley,George Lucas,115,1027.08,22348297,148,7.5,3000,Blockbuster
+thecroods,0,English,98,7.2,Animated,"Animation, Adventure, Comedy, Family, Fantasy, Drama, Romance",0,1,0,1,0,0,1,1,0,0,1,0,0,1,Ryan Reynolds,Emma Stone,Kirk DeMicco,135,587.2,18414055,162,7.4,4000,Blockbuster
+asterixattheolympicgames,,French,117,5.2,Live Action,"Adventure, Comedy, Family",0,1,0,1,0,0,1,0,0,0,1,0,0,0,Clovis Cornillac,Gérard Depardieu,Frédéric Forestier,78,135.1,10594275,120,5,1000,Hit
+windtalkers,0,English,134,6,Live Action,"Action, Drama, War",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Nicolas Cage,Adam Beach,John Woo,115,40.91,9588206,25,7.2,3000,Flop
+thehuntsmanwinterswar,0.25,English,114,6.1,Live Action,"Action, Adventure, Drama",0,1,0,1,0,1,0,0,0,0,0,0,0,0,Chris Hemsworth,Charlize Theron,Cedric Nicolas-Troyan,115,164.62,10054711,30,6.5,3500,Flop
+teenagemutantninjaturtles,,English,101,5.8,Live Action,"Action, Adventure, Comedy",0,0,0,1,0,1,0,0,0,0,1,0,0,0,Megan Fox,Alan Ritchson,Jonathan Liebesman,125,493.33,26413488,4000,7,3000,Hit
+gravity,0.3,English,91,7.7,Live Action,"Drama, Sci-Fi, Thriller",0,1,0,0,1,0,0,0,0,0,0,0,0,1,Sandra Bullock,George Clooney,Alfonso Cuarón,100,716.39,37193659,3300,7.3,3400,Blockbuster
+dantespeak,0.222222222222222,English,108,5.9,Live Action,"Action, Adventure, Thriller",0,1,0,1,1,1,0,0,0,0,0,0,0,0,Pierce Brosnan,Linda Hamilton,Roger Donaldson,116,178.12,4245504,42,7.1,2000,Hit
+teenagemutantninjaturtlesoutoftheshadows,0.15,English,112,6,Live Action,"Action, Adventure, Comedy",1,0,0,1,1,1,1,0,0,0,0,0,0,1,Megan Fox,Stephen Amell,Dave Green,108,245.62,8862273,86,5.7,2000,Average
+fantasticfour,0.55,English,106,4.3,Live Action,"Action, Adventure, Sci-Fi",1,0,0,1,1,1,0,0,0,0,0,0,0,1,Miles Teller,Kate Mara,Josh Trank,79,167.88,11654543,100,4.3,2000,Flop
+nightatthemuseum,,English,108,6.4,Live Action,"Adventure, Comedy, Family",1,0,0,1,0,1,1,0,0,0,1,0,0,1,Ben Stiller,Carla Gugino,Shawn Levy,110,574.5,20477751,22,7.5,4000,Blockbuster
+sanandreas,0.4,English,114,6,Live Action,"Action, Adventure, Drama",0,0,0,1,1,1,1,0,0,0,0,0,0,1,Dwayne Johnson,Carla Gugino,Brad Peyton,110,474.9,10594275,120,6,1000,Hit
+tomorrowneverdies,0,English,119,6.5,Live Action,"Action, Adventure, Thriller",0,1,0,0,1,1,0,0,0,0,0,0,1,1,Pierce Brosnan,Michelle Yeoh,Roger Spottiswoode,110,333,9588206,25,6.8,3000,Hit
+thepatriot,0.4,English,165,7.2,Live Action,"Action, Drama, History",0,1,0,1,1,1,0,1,0,0,0,0,0,0,Mel Gibson,Heath Ledger,Roland Emmerich,110,215.3,10054711,30,7.4,3500,Blockbuster
+oceanstwelve,0.4,English,125,6.5,Live Action,"Crime, Thriller",0,1,0,1,1,1,0,1,0,0,1,0,1,0,George Clooney,Brad Pitt,Steven Soderbergh,110,362,26413488,4000,6.7,3000,Blockbuster
+mrmrssmith,0.5,English,120,6.5,Live Action,"Action, Comedy, Crime",0,1,0,1,1,1,1,1,0,0,1,0,1,0,Brad Pitt,Angelina Jolie,Doug Liman,110,478.2,37193659,3300,6.8,3400,Blockbuster
+thedivergentseriesinsurgent,,English,119,6.2,Live Action,"Action, Adventure, Sci-Fi",1,0,0,1,1,1,1,1,0,0,0,0,0,1,Shailene Woodley,Theo James,Robert Schwentke,110,295,6789684,86,6.2,3400,Flop
+theaviator,0.466666666666667,English,170,7.5,Live Action,"Biography, Drama, History",0,1,0,1,0,1,1,1,0,0,1,0,0,0,Leonardo DiCaprio,Cate Blanchett,Martin Scorsese,110,213.7,3794568,45,7.5,1796,Hit
+gulliverstravels,,English,85,4.9,Live Action,"Adventure, Comedy, Family",1,1,0,1,0,0,1,0,0,0,1,0,0,0,Jack Black,Amanda Peet,Rob Letterman,112,237.4,3316469,48,5.6,3089,Flop
+thegreenhornet,0.4,English,119,5.8,Live Action,"Action, Comedy, Crime",0,0,0,1,0,1,1,0,0,0,1,0,1,0,Seth Rogen,Jay Chou,Michel Gondry,120,227.8,6369900,100,5.8,3584,Average
+300riseofanempire,0.35,English,102,6.2,Live Action,"Action, Fantasy, War",0,1,0,1,0,1,0,0,0,0,0,0,1,0,Sullivan Stapleton,Eva Green,Noam Murro,110,337.6,10678714,66,6,3470,Average
+thesmurfs,0.15,English,103,5.4,Live Action,"Animation, Adventure, Comedy",0,1,0,1,0,0,1,0,0,0,1,0,0,0,Hank Azaria,Katy Perry,Raja Gosnell,110,563.7,4580220,40,5.4,3000,Flop
+homeontherange,0.4,English,76,5.4,Live Action,"Animation, Adventure, Comedy",0,1,0,0,0,0,0,0,0,0,0,0,0,0,Roseanne Barr,Judi Dench,Will Finn,110,103.9,5285483,54,4.5,3000,Flop
+allegiant,,English,120,5.7,Live Action,"Action, Adventure, Mystery",1,0,0,1,1,1,1,0,0,0,0,0,0,1,Shailene Woodley,Theo James,Robert Schwentke,110,179.2,6524513,62,5.7,4000,Flop
+realsteel,0.4,English,127,7.1,Live Action,"Action, Drama, Family",0,1,0,1,1,1,0,0,0,0,0,0,0,1,Hugh Jackman,Evangeline Lilly,Shawn Levy,110,299.3,7368343,64,7.1,1000,Hit
+thesmurfs2,0.2,English,105,5.3,Live Action,"Animation, Adventure, Comedy",0,1,0,1,1,1,1,0,0,0,1,0,0,1,Hank Azaria,Katy Perry,Raja Gosnell,105,347.4,4526722,48,5.4,3000,Flop
+speed2cruisecontrol,,English,121,3.9,Live Action,"Action, Adventure, Crime",0,1,0,1,1,1,1,1,0,0,0,0,0,1,Sandra Bullock,Jason Patric,Jan de Bont,160,164.5,4535774,40,3.7,3500,Flop
+endersgame,0,English,114,6.6,Live Action,"Action, Adventure, Sci-Fi",0,1,0,1,1,1,1,0,0,0,0,0,1,1,Asa Butterfield,Harrison Ford,Gavin Hood,110,125.5,6747674,57,6.6,3000,Average
+livefreeordiehard,0.4,English,128,7.1,Live Action,"Action, Adventure, Thriller",0,1,0,0,0,1,1,0,0,0,0,0,1,1,Bruce Willis,Justin Long,Len Wiseman,110,388,6687059,105,7.1,3400,Hit
+thelordoftheringsthefellowshipofthering,0.45,English,178,8.8,Live Action,"Action, Adventure, Drama",1,0,0,1,0,1,0,0,0,0,0,0,1,1,Elijah Wood,Ian McKellen,Peter Jackson,93,888.3,7791280,61,8.8,2000,Blockbuster
+aroundtheworldin80days,,English,120,5.9,Live Action,"Action, Adventure, Comedy",0,1,0,1,0,1,0,0,0,0,0,0,0,1,Jackie Chan,Steve Coogan,Frank Coraci,110,72.2,6369900,100,5.9,2000,Flop
+ali,0.3,English,157,6.8,Live Action,"Biography, Drama, Sport",0,1,0,0,0,1,0,0,1,0,0,0,0,0,Will Smith,Jamie Foxx,Michael Mann,107,87.8,87773362,2446,6.8,2000,Average
+thecatinthehat,,English,82,4,Live Action,"Adventure, Comedy, Family",1,0,0,1,0,0,0,0,0,0,1,0,0,1,Mike Myers,Dakota Fanning,Bo Welch,109,133.4,55474331,30,4,4000,Flop
+irobot,0.1,English,115,7.1,Live Action,"Action, Drama, Sci-Fi",1,1,0,1,1,1,1,0,0,0,0,0,0,1,Will Smith,Bridget Moynahan,Alex Proyas,120,347.2,12667977,118,7.1,1000,Blockbuster
+kingdomofheaven,0.5,English,144,7.2,Live Action,"Action, Adventure, Drama",1,1,0,1,0,1,0,1,0,0,0,0,1,0,Orlando Bloom,Eva Green,Ridley Scott,130,211.6,21454951,43,7.2,3000,Flop
+stuartlittle,,English,84,5.9,Live Action,"Adventure, Comedy, Family",0,1,1,1,0,0,1,1,0,0,1,0,1,0,Michael J. Fox,Jonathan Lipnicki,Rob Minkoff,133,300.1,33328904,3216,5.4,3500,Hit
+theprincessandthefrog,0.6,English,97,7.1,Animated,"Animation, Adventure, Comedy",1,0,0,1,1,1,0,1,0,0,0,0,1,1,Anika Noni Rose,Bruno Campos,Ron Clements,105,270.5,140452515,3240,7.1,3000,Hit
+theisland,,English,136,6.9,Live Action,"Action, Sci-Fi, Thriller",1,0,0,1,1,1,0,0,0,0,0,0,1,1,Ewan McGregor,Scarlett Johansson,Michael Bay,126,162.9,630161890,3821,6.9,3400,Flop
+thetownthatdreadedsundown,0.5,English,86,5.6,Live Action,"Crime, Horror, Mystery",0,0,0,0,1,0,0,0,1,0,0,1,1,1,Addison Timlin,Veronica Cartwright,Alfonso Gomez-Rejon,110,31.5,162949164,3122,5.6,1796,Flop
+goneinsixtysecondsatascotraceway,,English,118,6.5,Live Action,"Action, Crime, Thriller",0,0,0,0,0,0,1,0,0,0,0,1,1,1,Nicolas Cage,Angelina Jolie,Dominic Sena,114,237.2,12370855,2790,6.5,3089,Flop
+gladiator,0.45,English,155,8.5,Live Action,"Action, Adventure, Drama",1,0,0,1,0,1,0,0,0,0,0,1,1,1,Russell Crowe,Joaquin Phoenix,Ridley Scott,103,457.6,13525000,19,8.6,3584,Blockbuster
+minorityreport,,English,145,7.6,Live Action,"Action, Crime, Drama",1,0,0,1,1,1,1,0,1,0,0,0,1,1,Tom Cruise,Colin Farrell,Steven Spielberg,102,358.4,460583960,3106,7.7,3470,Blockbuster
+harrypotterandthechamberofsecrets,0,English,161,7.4,Live Action,"Adventure, Family, Fantasy",1,0,1,1,0,0,1,0,0,0,0,0,1,1,Daniel Radcliffe,Rupert Grint,Chris Columbus,100,879.5,358372926,3001,7.6,3000,Blockbuster
+casinoroyale,0.45,English,144,8,Live Action,"Action, Adventure, Thriller",0,0,0,1,1,1,0,0,1,0,0,0,1,1,Daniel Craig,Eva Green,Martin Campbell,150,616.5,879484425,3192,8.2,3000,Blockbuster
+planetoftheapes,0,English,119,5.7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,1,0,1,0,0,1,0,0,0,1,1,Mark Wahlberg,Helena Bonham Carter,Tim Burton,100,362.2,362211740,3257,5.9,4000,Hit
+terminator2judgmentday,,English,137,8.5,Live Action,"Action, Sci-Fi",0,0,0,1,1,1,0,0,1,0,0,0,1,1,Arnold Schwarzenegger,Linda Hamilton,James Cameron,102,520.9,362211740,3257,8.5,1000,Blockbuster
+publicenemies,0.15,English,140,7,Live Action,"Biography, Crime, Drama",0,0,0,0,1,1,0,0,0,0,0,0,1,1,Johnny Depp,Christian Bale,Michael Mann,100,214.1,214104620,3520,7,3000,Hit
+americangangster,0.25,English,157,7.8,Live Action,"Biography, Crime, Drama",1,0,0,0,1,1,0,0,0,0,0,0,1,1,Denzel Washington,Russell Crowe,Ridley Scott,100,266.5,214104620,3520,7.7,3500,Blockbuster
+truelies,0.6,English,141,7.2,Live Action,"Action, Comedy, Thriller",0,0,0,0,1,1,0,0,0,0,1,0,1,1,Arnold Schwarzenegger,Jamie Lee Curtis,James Cameron,100,378.9,266272577,3334,7.3,3000,Hit
+littlefockers,0.45,English,98,5.5,Live Action,"Comedy, Romance",0,0,0,0,1,1,0,0,0,0,1,0,1,1,Robert De Niro,Ben Stiller,Paul Weitz,100,310.7,310650585,3536,5.4,3400,Average
+theotherguys,0.3,English,107,6.6,Live Action,"Action, Comedy, Crime",0,0,0,0,1,0,0,0,0,0,1,0,1,1,Will Ferrell,Mark Wahlberg,Adam McKay,100,170.4,170432927,3651,6.6,2000,Average
+eraser,0.625,English,115,6.1,Live Action,"Action, Drama, Thriller",0,0,0,0,1,1,0,0,0,0,0,0,1,1,Arnold Schwarzenegger,Vanessa Williams,Chuck Russell,100,242.3,242295562,3436,5.8,2000,Flop
+thehunchbackofnotredame,,English,91,6.9,Animated,"Animation, Drama, Family",0,1,1,1,0,0,1,0,0,0,0,0,0,0,Tom Hulce,Demi Moore,Gary Trousdale,100,325.3,325104026,3126,6.9,4000,Superhit
+theemperorsnewgroove,,English,78,7.3,Animated,"Animation, Adventure, Comedy",1,0,0,1,0,1,1,1,0,0,0,0,0,0,David Spade,John Goodman,Mark Dindal,100,169.9,169327687,3136,7.2,1000,Superhit
+theexpendables2,0.35,English,103,6.6,Live Action,"Action, Adventure, Thriller",0,0,0,1,0,0,1,0,0,0,0,0,0,0,Sylvester Stallone,Jason Statham,Simon West,100,314.9,312573423,3334,6.6,3000,Flop
+nationaltreasure,0.444444444444444,English,131,6.9,Live Action,"Action, Adventure, Mystery, Thriller",0,0,0,1,0,0,1,0,1,0,0,0,0,0,Nicolas Cage,Diane Kruger,Jon Turteltaub,100,347.5,349216835,3243,6.8,3500,Blockbuster
+eragon,0.4,English,104,5.1,Live Action,"Action, Adventure, Family",1,0,0,1,1,0,0,0,0,0,0,0,0,0,Ed Speleers,Sienna Guillory,Stefen Fangmeier,100,249.5,249288105,3376,5,3000,Flop
+wherethewildthingsare,0.45,English,101,6.7,Live Action,"Adventure, Drama, Family",1,1,0,0,1,0,0,1,0,0,0,0,0,0,Max Records,Catherine Keener,Spike Jonze,100,100.1,100086678,3645,6.6,3400,Average
+epic,0.55,English,102,6.6,Animated,"Animation, Adventure, Family",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Amanda Seyfried,Josh Hutcherson,Chris Wedge,100,268.4,268426634,3202,6.5,3400,Average
+thetourist,0,English,103,6,Live Action,"Action, Adventure, Crime",0,1,0,1,0,1,0,1,0,0,0,0,0,0,Johnny Depp,Angelina Jolie,Florian Henckel von Donnersmarck,100,278.3,278346189,3224,6,1796,Flop
+endofdays,0.333333333333333,English,122,5.8,Live Action,"Action, Fantasy, Horror",0,0,0,0,1,1,0,1,0,0,0,0,0,0,Arnold Schwarzenegger,Gabriel Byrne,Peter Hyams,100,212,211989043,3246,5.8,3089,Average
+blooddiamond,0.125,English,143,8,Live Action,"Action, Adventure, Drama",0,1,0,0,1,0,1,0,0,1,0,0,0,0,Leonardo DiCaprio,Djimon Hounsou,Edward Zwick,100,171.4,171875124,3065,8.1,3584,Hit
+batmanforever,0.15,English,121,5.4,Live Action,"Action, Adventure, Fantasy",0,0,0,0,0,0,0,0,1,0,0,0,0,0,Val Kilmer,Tommy Lee Jones,Joel Schumacher,100,336.5,336529144,4028,5.4,3000,Blockbuster
+starshiptroopers,0.2,English,129,7.2,Live Action,"Action, Adventure, Sci-Fi",1,0,0,1,0,1,0,0,0,0,0,0,0,1,Casper Van Dien,Dina Meyer,Paul Verhoeven,100,121.2,121214377,3002,7.2,3000,Hit
+cloudatlas,0.7,English,172,7.4,Live Action,"Action, Drama, Mystery",1,1,0,1,0,0,0,0,0,0,0,0,0,0,Tom Hanks,Halle Berry,Tom Tykwer,100,130.5,130482868,3243,7.5,4000,Flop
+legendoftheguardianstheowlsofgahoole,,English,97,6.9,Animated,"Animation, Action, Adventure",1,0,0,1,1,0,0,1,0,0,0,0,0,0,Jim Sturgess,Hugo Weaving,Zack Snyder,100,140.1,140073390,3641,7,1000,Flop
+catwoman,0,English,104,3.3,Live Action,"Action, Crime, Fantasy",0,1,0,0,0,1,0,1,0,0,0,1,0,0,Halle Berry,Benjamin Bratt,Pitof,100,82.1,82102379,3117,3.3,3000,Flop
+hercules,,English,93,7.3,Animated,"Animation, Adventure, Comedy",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Tate Donovan,Danny DeVito,Ron Clements,100,252.7,244909976,3602,7.3,3500,Hit
+treasureplanet,0.0666666666666666,English,95,7.1,Animated,"Animation, Adventure, Family",1,1,0,1,1,0,0,0,0,0,0,0,0,0,Joseph Gordon-Levitt,Emma Thompson,Ron Clements,140,109.6,109578115,3038,7.1,3000,Flop
+landofthelost,0.4,English,102,5.3,Live Action,"Adventure, Comedy, Sci-Fi",0,0,0,1,0,0,0,0,1,0,0,0,0,0,Will Ferrell,Anna Friel,Brad Silberling,100,68.8,68733155,3521,5.4,3400,Flop
+theexpendables3,0.5,English,126,6,Live Action,"Action, Adventure, Thriller",0,0,0,0,0,1,1,0,0,0,0,0,0,0,Sylvester Stallone,Jason Statham,Patrick Hughes,90,214.6,206172544,4035,6,2000,Flop
+pointbreak,0.5,English,122,7.2,Live Action,"Action, Crime, Thriller",0,1,0,0,0,1,0,0,0,0,0,0,0,0,Keanu Reeves,Patrick Swayze,Kathryn Bigelow,105,83.5,133726889,3255,7.2,2000,Average
+sonofthemask,0.35,English,94,2.2,Live Action,"Comedy, Family, Fantasy",0,0,0,0,0,1,0,0,0,0,0,0,0,0,Jamie Kennedy,Alan Cumming,Lawrence Guterman,84,59.9,59918422,3689,2.2,2000,Flop
+intheheartofthesea,0.333333333333333,English,122,6.9,Live Action,"Action, Adventure, Biography",0,1,0,1,1,0,1,0,0,0,0,0,0,0,Cillian Murphy,Benjamin Walker,Ron Howard,100,93.9,93920758,3103,7,4000,Flop
+theadventuresofplutonash,0.35,English,95,3.8,Live Action,"Action, Comedy, Sci-Fi",0,0,0,1,0,0,0,1,0,0,0,1,0,0,Eddie Murphy,Randy Quaid,Ron Underwood,100,7.1,7103973,3221,3.8,1000,Flop
+greenzone,0.5,English,115,6.8,Live Action,"Action, Drama, Thriller",0,0,0,0,1,1,1,0,0,0,0,0,0,0,Matt Damon,Gregor Fisher,Paul Greengrass,100,94.9,94201586,3653,6.7,3000,Average
+thepeanutsmovie,,English,88,7.1,Animated,"Animation, Adventure, Comedy",0,0,0,0,1,0,0,1,1,0,0,0,0,0,Noah Schnapp,Bill Melendez,Steve Martino,99,246.2,12795219,3478,7.1,3500,Hit
+thespanishprisoner,0.7,English,110,7.7,Live Action,"Drama, Mystery, Thriller",0,0,1,0,1,0,0,0,0,1,0,0,0,0,Campbell Scott,Steve Martin,David Mamet,45,12,433013274,3449,7.6,3000,Average
+themummyreturns,0.25,English,130,6.3,Live Action,"Action, Adventure, Fantasy",0,1,0,0,1,0,1,0,0,0,0,1,0,0,Brendan Fraser,Rachel Weisz,Stephen Sommers,98,433,193772504,3641,6.3,3400,Blockbuster
+gangsofnewyork,0.3,English,167,7.5,Live Action,"Crime, Drama",0,1,0,1,0,1,1,0,0,0,0,0,0,0,Leonardo DiCaprio,Daniel Day-Lewis,Martin Scorsese,100,193.8,98117707,3900,7.3,3400,Hit
+theflowersofwar,0.5,Other Regional,146,7.5,Live Action,"Drama, History, Romance",0,0,0,1,0,0,0,0,1,0,0,0,0,0,Christian Bale,Ni Ni,Yimou Zhang,100,95.1,95266903,3149,7.4,1796,Flop
+surfsup,,English,85,6.6,Animated,"Animation, Comedy, Family",0,0,0,0,1,0,0,1,0,1,0,0,0,0,Shia LaBeouf,Jeff Bridges,Ash Brannon,85,149,149044513,3532,6.6,3089,Average
+thestepfordwives,0.5,English,93,5.2,Live Action,"Comedy, Horror, Sci-Fi",0,0,0,0,0,0,0,0,0,0,1,0,0,0,Nicole Kidman,Matthew Broderick,Frank Oz,90,102,4765017,60,5.3,3584,Flop
+blackhawkdown,0.35,English,144,7.7,Live Action,"Drama, History, War",0,0,0,1,0,1,1,0,0,0,0,1,0,0,Josh Hartnett,Ewan McGregor,Ridley Scott,92,172.4,20370329,113,7.7,3470,Superhit
+thecampaign,,English,85,6.1,Live Action,Comedy,0,1,0,0,0,0,1,0,0,0,1,0,0,1,Will Ferrell,Zach Galifianakis,Jay Roach,95,104.9,3381542,68,6.1,3000,Average
+thefifthelement,0.25,English,126,7.7,Live Action,"Action, Adventure, Sci-Fi",0,0,0,0,0,0,0,0,0,0,0,1,0,1,Bruce Willis,Milla Jovovich,Luc Besson,80,263.9,15310563,90,7.7,3000,Blockbuster
+sexandthecity2,0.35,English,146,4.3,Live Action,"Comedy, Drama, Romance",0,0,0,1,1,0,0,1,0,0,0,0,0,0,Sarah Jessica Parker,Kim Cattrall,Michael Patrick King,95,294.7,16920650,69,4.3,4000,Flop
+theroadtoeldorado,,English,89,6.9,Animated,"Animation, Adventure, Comedy",0,0,0,0,1,1,0,0,0,0,0,0,0,0,Kevin Kline,Kenneth Branagh,Bibo Bergeron,95,76.4,13905235,19,6.9,1000,Flop
+iceagecontinentaldrift,0,English,88,6.6,Animated,"Animation, Adventure, Comedy",0,1,0,1,1,0,0,1,0,0,0,0,0,0,Ray Romano,Queen Latifah,Steve Martino,95,877.2,14071914,77,6.6,3000,Blockbuster
+cinderella,0.25,English,105,6.9,Live Action,"Drama, Family, Fantasy",0,0,0,0,1,0,0,0,0,1,0,0,0,0,Lily James,Cate Blanchett,Kenneth Branagh,135,543.5,201151353,63,6.9,3500,Superhit
+thelovelybones,0.7,English,135,6.7,Live Action,"Drama, Fantasy, Thriller",0,1,0,0,0,0,0,1,0,0,0,0,0,0,Mark Wahlberg,Saoirse Ronan,Peter Jackson,65,93.6,44114232,119,6.7,3000,Flop
+findingnemo,0.5,English,100,8.1,Animated,"Animation, Adventure, Comedy",0,1,0,1,0,0,1,0,0,0,0,0,0,0,Albert Brooks,Ellen DeGeneres,Andrew Stanton,94,940.3,87449427,60,8.1,3400,Blockbuster
+thelordoftheringsthereturnoftheking,0.55,English,201,8.9,Live Action,"Action, Adventure, Drama",1,1,0,1,0,0,1,1,0,0,0,0,0,1,Elijah Wood,Viggo Mortensen,Peter Jackson,94,1140.3,141407024,61,8.7,2000,Blockbuster
+thelordoftheringsthetwotowers,0.15,English,179,8.7,Live Action,"Action, Adventure, Drama",1,1,0,1,0,0,1,1,0,0,0,0,0,1,Elijah Wood,Viggo Mortensen,Peter Jackson,94,926,41122566,119,8.6,2000,Blockbuster
+seventhson,0.3,English,102,5.5,Live Action,"Action, Adventure, Fantasy",1,0,0,1,1,1,0,0,0,0,0,0,0,0,Ben Barnes,Jeff Bridges,Sergei Bodrov,95,114.2,131883002,60,5.5,2000,Flop
+laracrofttombraider,0,English,100,5.8,Live Action,"Action, Adventure, Fantasy",0,1,0,1,1,0,1,0,0,0,0,1,0,1,Angelina Jolie,,Simon West,115,274.7,103028322,59,5.8,4000,Hit
+transcendence,0.6,English,119,6.3,Live Action,"Action, Drama, Sci-Fi",0,1,0,0,0,1,0,0,1,0,0,1,1,0,Johnny Depp,Rebecca Hall,Wally Pfister,100,103,54616869,100,6.3,1000,Flop
+jurassicparkiii,,English,92,5.9,Live Action,"Action, Adventure, Sci-Fi",1,0,0,1,0,0,1,1,0,0,0,0,0,1,Sam Neill,Téa Leoni,Joe Johnston,93,368.8,105194428,53,5.9,3000,Average
+riseoftheplanetoftheapes,0.3,English,105,7.6,Live Action,"Action, Drama, Sci-Fi",0,0,0,1,1,0,1,0,0,0,0,0,0,0,James Franco,Andy Serkis,Rupert Wyatt,93,481.8,162839667,60,7.5,3500,Hit
+thespiderwickchronicles,,English,96,6.6,Live Action,"Adventure, Family, Fantasy",1,0,0,1,0,0,0,1,0,0,0,0,0,1,Freddie Highmore,Sarah Bolger,Mark Waters,90,162.8,304654182,58,6.6,3000,Average
+agooddaytodiehard,0.285714285714286,English,98,5.2,Live Action,"Action, Thriller",0,0,0,0,0,1,1,0,0,1,0,0,0,0,Bruce Willis,Jai Courtney,John Moore,92,304.7,304654182,3641,5.2,3400,Flop
+thealamo,0.166666666666667,English,137,6,Live Action,"Drama, History, War",0,0,0,0,1,0,1,0,0,0,0,0,0,0,Dennis Quaid,Billy Bob Thornton,John Lee Hancock,107,25.8,25818863,25,6,3400,Flop
+theincredibles,,English,115,8,Animated,"Animation, Action, Adventure",1,0,0,1,0,0,1,1,0,0,1,0,0,0,Craig T. Nelson,Holly Hunter,Brad Bird,92,633,631442092,3933,8,1796,Superhit
+cutthroatisland,,English,124,5.7,Live Action,"Action, Adventure, Comedy",0,1,0,0,0,0,0,0,1,0,0,0,0,0,Geena Davis,Matthew Modine,Renny Harlin,98,18.3,18634837,2318,5.6,3089,Flop
+percyjackson,0.1,English,118,5.9,Live Action,"Adventure, Family, Fantasy",0,1,0,1,1,0,0,1,0,0,0,0,0,0,Logan Lerman,Alexandra Daddario,Chris Columbus,95,226.4,221229335,3322,5.9,3584,Flop
+meninblack,0.4,English,98,7.3,Live Action,"Action, Adventure, Comedy",0,0,0,0,1,1,0,0,0,0,0,0,0,0,Will Smith,Tommy Lee Jones,Barry Sonnenfeld,90,589.4,587790539,3562,7.3,3470,Blockbuster
+toystory2,,English,92,7.9,Animated,"Animation, Adventure, Comedy",1,0,0,0,1,0,1,0,0,0,0,1,0,0,Tom Hanks,Tim Allen,John Lasseter,90,497.4,497366869,3654,7.9,3000,Superhit
+unstoppable,0.25,English,98,6.8,Live Action,"Action, Thriller",0,0,0,0,0,1,1,0,0,0,1,0,0,0,Denzel Washington,Chris Pine,Tony Scott,100,167.8,166336887,3151,6.8,3000,Hit
+rushhour2,0.35,English,90,6.5,Live Action,"Action, Comedy, Crime",0,0,0,0,0,0,0,1,0,0,0,0,0,0,Jackie Chan,Chris Tucker,Brett Ratner,90,347.3,347325802,3418,6.5,4000,Superhit
+whatliesbeneath,0.5,English,130,6.6,Live Action,"Drama, Horror, Mystery",0,1,0,0,0,0,0,0,0,1,0,0,0,0,Harrison Ford,Michelle Pfeiffer,Robert Zemeckis,100,291.4,291420351,3536,6.6,1000,Hit
+cloudywithachanceofmeatballs,0.2,English,90,7,Animated,"Animation, Adventure, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,1,Bill Hader,Anna Faris,Phil Lord,100,243,245422777,3938,7,3000,Superhit
+iceagedawnofthedinosaurs,,English,94,6.9,Animated,"Animation, Adventure, Comedy, Family, Fantasy",1,0,0,1,0,0,0,1,0,0,0,0,0,1,Ray Romano,,Carlos Saldanha,90,886.7,4916840,27,6.9,3500,Blockbuster
+thesecretlifeofwaltermitty,0,English,114,7.3,Live Action,"Adventure, Comedy, Drama",0,1,0,0,0,0,1,1,0,0,1,0,0,0,Ben Stiller,Kristen Wiig,Ben Stiller,90,188.2,188133322,3965,7.3,3000,Hit
+charliesangels,0.4,English,98,5.5,Live Action,"Action, Adventure, Comedy",0,0,0,1,1,1,0,0,0,0,0,0,0,0,Cameron Diaz,Drew Barrymore,McG,90,264.1,264105545,3073,5.5,3400,Flop
+thedeparted,0.333333333333333,English,151,8.5,Live Action,"Crime, Drama, Thriller",0,1,0,0,0,1,0,0,1,0,0,0,1,0,Leonardo DiCaprio,Matt Damon,Martin Scorsese,90,291.5,264105545,3073,8.5,2000,Hit
+mulan,,English,115,7.6,Animated,"Animation, Adventure, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,Ming-Na Wen,,Tony Bancroft,90,304.3,188072649,3922,7.6,2000,Superhit
+tropicthunder,0,English,107,7,Live Action,"Action, Comedy",0,0,0,0,0,1,1,0,0,1,1,0,0,0,Ben Stiller,Robert Downey Jr.,War Ben Stiller,85,188.1,201946338,3774,7,2000,Hit
+thegirlwiththedragontattoo,0.25,English,158,7.8,Live Action,"Crime, Drama, Mystery",0,0,0,0,0,0,0,0,1,0,0,1,0,1,Daniel Craig,Rooney Mara,David Fincher,90,232.6,232617430,2914,7.7,4000,Hit
+diehardwithavengeance,1,English,128,7.6,Live Action,"Action, Adventure, Thriller",0,0,0,0,1,1,0,1,0,0,0,0,0,0,Bruce Willis,Samuel L. Jackson,John McTiernan,90,366.1,366101666,3017,7.6,1000,Hit
+benhur,0.45,English,123,5.7,Live Action,"Action, Adventure, Drama",0,1,0,0,1,0,0,0,0,0,0,0,0,0,Charlton Heston,Sophia Loren,Timur Bekmambetov,100,94.1,94095796,3286,5.7,3500,Blockbuster
+atlantisthelostempire,0,English,96,6.8,Animated,"Animation, Action, Adventure",1,0,0,1,0,0,1,0,0,0,0,0,0,0,Michael J. Fox,Cree Summer,Gary Trousdale,120,186.1,186053725,3012,6.8,3000,Average
+alvinandthechipmunkstheroadchip,,English,92,5,Animated,"Animation, Adventure, Comedy",1,0,1,1,0,1,1,0,0,0,0,1,0,1,Jason Lee,Anna Faris,Walt Becker,90,234.8,234799006,3781,4.9,3400,Average
+valkyrie,,English,121,7.1,Live Action,"Drama, History, Thriller",0,1,0,0,0,1,0,0,0,1,0,0,0,1,Tom Cruise,,Bryan Singer,75,200.3,200276568,3382,7.1,3400,Average
+youdontmesswiththezohan,0.35,English,113,5.5,Live Action,Comedy,0,0,1,0,0,1,1,0,0,0,1,0,0,0,Adam Sandler,Emmanuelle Chriqui,Dennis Dugan,90,204.3,201979256,3407,5.5,1796,Average
+pixels,0.4,English,105,5.5,Live Action,"Comedy, Sci-Fi, Thriller",0,0,0,1,1,0,1,0,0,0,1,0,1,1,Adam Sandler,,Chris Columbus,88,244.8,244874809,3737,5.4,3089,Average
+aiartificialintelligence,0.5,English,146,7.2,Live Action,"Adventure, Drama, Sci-Fi",0,1,0,0,0,0,0,0,0,1,0,1,1,1,Haley Joel Osment,Jude Law,Steven Spielberg,100,235.9,235926552,3791,7.2,3584,Hit
+thehauntedmansion,,English,99,4.9,Live Action,"Comedy, Family, Fantasy",0,0,0,0,0,0,1,0,0,0,1,0,0,0,Eddie Murphy,,Rob Minkoff,90,182.3,182290685,3379,4.9,3470,Flop
+contact,0.4,English,150,7.4,Live Action,"Drama, Mystery, Sci-Fi, Thriller",0,1,1,0,1,0,0,0,0,0,0,1,0,0,Jodie Foster,Matthew McConaughey,Robert Zemeckis,90,171.1,171405412,3409,7.7,3000,Hit
+hollowman,0.166666666666667,English,112,5.7,Live Action,"Action, Horror, Sci-Fi, Thriller",0,0,0,0,1,0,0,1,0,0,0,1,0,0,Kevin Bacon,Elisabeth Shue,Paul Verhoeven,95,190.2,190213455,3244,5.7,3000,Hit
+theinterpreter,0.461538461538462,English,128,6.4,Live Action,"Crime, Mystery, Thriller",0,1,0,0,0,1,0,0,0,1,0,0,0,1,Nicole Kidman,Sean Penn,Sydney Pollack,95,162.9,190213455,3244,6.5,4000,Average
+percyjacksonseaofmonsters,0.15,English,106,5.8,Live Action,"Adventure, Family, Fantasy, Thriller",1,0,0,1,0,0,1,0,0,0,1,0,0,1,Logan Lerman,Alexandra Daddario,Thor Freudenthal,90,199.8,202359711,3778,5.8,1000,Average
+laracrofttombraiderthecradleoflife,0.3,English,117,5.5,Live Action,"Action, Adventure, Fantasy, Thriller",0,1,0,1,1,1,0,0,0,0,0,0,1,0,Angelina Jolie,Gerard Butler,Jan de Bont,95,156.5,65653758,3515,5.5,3000,Average
+nowyouseeme2,0.25,English,129,6.5,Live Action,"Action, Adventure, Comedy, Crime, Mystery, Thriller",0,1,1,1,0,1,0,0,0,0,1,0,0,1,Jesse Eisenberg,Mark Ruffalo,Jon M. Chu,90,334.9,334901337,3815,6.6,3500,Hit
